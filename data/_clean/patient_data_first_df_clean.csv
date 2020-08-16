@@ -1,0 +1,1086 @@
+date_observation,province,country,gender,age,date_onset,date_admission_hospital,date_exposure_start,date_exposure_end,contact_with_Wuhan,is_dead,is_recovered,symptoms_set
+2020-01-20,Guangdong,China,male,66,2020-01-03,2020-01-11,2019-12-29,2020-01-04,1,0,0,NA
+2020-01-20,Shanghai,China,female,56,2020-01-15,2020-01-15,NA,2020-01-12,1,0,0,NA
+2020-01-21,Zhejiang,China,male,46,2020-01-04,2020-01-17,NA,2020-01-03,1,0,0,NA
+2020-01-21,Tianjin,China,female,60,NA,2020-01-19,NA,NA,1,0,0,NA
+2020-01-21,Tianjin,China,male,58,NA,2020-01-14,NA,NA,0,0,0,NA
+2020-01-21,Chongqing,China,female,44,2020-01-15,NA,NA,NA,1,0,0,NA
+2020-01-21,Sichuan,China,male,34,2020-01-11,NA,NA,NA,1,0,0,NA
+2020-01-21,Beijing,China,male,37,2020-01-14,2020-01-20,2020-01-10,2020-01-11,1,0,0,NA
+2020-01-21,Beijing,China,male,39,2020-01-09,2020-01-14,2020-01-03,2020-01-04,1,0,0,NA
+2020-01-21,Beijing,China,male,56,2020-01-16,2020-01-20,2020-01-08,2020-01-16,1,0,0,NA
+2020-01-21,Beijing,China,female,18,2020-01-19,2020-01-20,2020-01-12,2020-01-17,1,0,0,NA
+2020-01-21,Beijing,China,female,32,2020-01-15,2020-01-20,2020-01-13,2020-01-17,1,0,0,NA
+2020-01-21,Shandong,China,male,37,NA,2020-01-17,NA,NA,1,0,0,NA
+2020-01-21,Yunnan,China,male,51,2020-01-16,NA,NA,2020-01-15,1,0,0,NA
+2020-01-22,Sichuan,China,male,57,2020-01-16,NA,NA,2020-01-15,1,0,0,NA
+2020-01-22,Jiangxi,China,male,56,2020-01-10,NA,2019-12-20,2020-01-09,1,0,0,NA
+2020-01-22,Jiangxi,China,male,50,2020-01-10,NA,NA,2020-01-02,1,0,0,NA
+2020-01-22,Macau,Macau,female,52,2020-01-14,2020-01-22,NA,NA,1,0,0,NA
+2020-01-22,Liaoning,China,male,33,2020-01-11,2020-01-17,NA,NA,1,0,0,NA
+2020-01-22,Liaoning,China,male,40,2020-01-14,2020-01-19,NA,2020-01-12,1,0,0,NA
+2020-01-22,Fujian,China,male,70,NA,2020-01-20,NA,2020-01-17,1,0,0,NA
+2020-01-22,Guizhou,China,male,51,2020-01-14,2020-01-14,NA,NA,1,0,0,NA
+2020-01-22,Shanxi,China,male,NA,2020-01-19,2020-01-20,2020-01-12,2020-01-15,1,0,0,NA
+2020-01-22,Sichuan,China,female,28,2020-01-19,NA,NA,2020-01-17,1,0,0,NA
+2020-01-22,Sichuan,China,male,37,2020-01-20,NA,NA,2020-01-18,1,0,0,NA
+2020-01-22,Sichuan,China,male,19,2020-01-20,NA,NA,2020-01-13,1,0,0,NA
+2020-01-22,Ningxia,China,male,29,NA,2020-01-19,NA,NA,1,0,0,NA
+2020-01-22,Guangxi,China,female,66,2020-01-17,2020-01-17,NA,2020-01-16,1,0,0,NA
+2020-01-22,Guangxi,China,male,46,2020-01-20,NA,NA,NA,0,0,0,NA
+2020-01-22,Henan,China,female,32,NA,NA,NA,2020-01-18,1,0,0,NA
+2020-01-22,Henan,China,male,28,NA,NA,2020-01-09,2020-01-19,1,0,0,NA
+2020-01-22,Henan,China,male,55,NA,NA,NA,2020-01-11,1,0,0,NA
+2020-01-22,Henan,China,male,68,NA,2020-01-13,NA,2020-01-11,1,0,0,NA
+2020-01-22,Shandong,China,male,38,2020-01-20,NA,NA,NA,0,0,0,NA
+2020-01-22,Hebei,China,male,72,2020-01-19,NA,NA,2020-01-18,1,0,0,NA
+2020-01-22,Beijing,China,male,45,2020-01-19,2020-01-21,2020-01-11,2020-01-14,1,0,0,NA
+2020-01-22,Beijing,China,male,42,2020-01-20,NA,2020-01-11,2020-01-18,1,0,0,NA
+2020-01-22,Beijing,China,female,33,NA,2020-01-20,NA,NA,1,0,0,NA
+2020-01-22,Beijing,China,female,33,NA,2020-01-20,NA,2020-01-18,1,0,0,NA
+2020-01-22,Jiangsu,China,male,37,NA,NA,NA,2020-01-10,1,0,0,NA
+2020-01-23,Heilongjiang,China,male,69,NA,NA,NA,2020-01-12,1,0,0,NA
+2020-01-23,Guangxi,China,male,63,2020-01-14,2020-01-21,NA,2020-01-20,1,0,0,NA
+2020-01-23,Guangxi,China,female,62,2020-01-09,2020-01-21,NA,2020-01-15,1,0,0,NA
+2020-01-23,Guangxi,China,male,49,2020-01-21,2020-01-21,NA,2020-01-20,1,0,0,NA
+2020-01-22,Sichuan,China,male,50,2020-01-18,NA,NA,2020-01-12,1,0,0,NA
+2020-01-22,Sichuan,China,male,48,2020-01-18,NA,NA,2020-01-10,1,0,0,NA
+2020-01-22,Sichuan,China,male,36,2020-01-18,NA,NA,2020-01-17,1,0,0,NA
+2020-01-22,Jilin,China,female,36,2020-01-19,NA,NA,2020-01-19,1,0,0,NA
+2020-01-22,Hubei,China,male,61,2019-12-20,2019-12-27,NA,NA,1,1,0,NA
+2020-01-22,Hubei,China,male,69,2019-12-30,2020-01-03,NA,NA,1,1,0,NA
+2020-01-22,Hubei,China,male,89,2020-01-08,NA,NA,NA,1,1,0,NA
+2020-01-22,Hubei,China,male,89,2020-01-13,2020-01-13,NA,NA,1,1,0,NA
+2020-01-22,Hubei,China,male,66,2020-01-10,2020-01-16,NA,NA,1,1,0,NA
+2020-01-22,Hubei,China,male,75,2020-01-12,2020-01-11,NA,NA,1,1,0,NA
+2020-01-22,Hubei,China,female,48,2019-12-10,NA,NA,NA,1,1,0,NA
+2020-01-22,Hubei,China,male,82,2020-01-09,2020-01-14,NA,NA,1,1,0,NA
+2020-01-22,Hubei,China,male,66,2019-12-22,2019-12-31,NA,NA,1,1,0,NA
+2020-01-22,Hubei,China,male,81,2020-01-15,2020-01-18,NA,NA,1,1,0,NA
+2020-01-22,Hubei,China,female,82,NA,2020-01-06,NA,NA,1,1,0,NA
+2020-01-22,Hubei,China,male,65,2020-01-05,2020-01-11,NA,NA,1,1,0,NA
+2020-01-22,Hubei,China,female,80,2020-01-09,2020-01-18,NA,NA,1,1,0,NA
+2020-01-22,Hubei,China,male,53,NA,2020-01-13,NA,NA,1,1,0,NA
+2020-01-22,Hubei,China,male,86,2020-01-02,2020-01-09,NA,NA,1,1,0,NA
+2020-01-22,Hubei,China,female,70,NA,2020-01-13,NA,NA,1,1,0,NA
+2020-01-22,Hubei,China,male,84,2020-01-06,2020-01-09,NA,NA,1,1,0,NA
+2020-01-22,Liaoning,China,female,50,2020-01-16,NA,NA,2020-01-15,1,0,0,NA
+2020-01-22,Hunan,China,male,40,2020-01-05,2020-01-20,NA,NA,1,0,0,NA
+2020-01-22,Hunan,China,male,45,2020-01-16,2020-01-21,NA,NA,1,0,0,NA
+2020-01-22,Hunan,China,female,66,2020-01-17,2020-01-21,NA,NA,1,0,0,NA
+2020-01-22,Hunan,China,male,59,2020-01-16,2020-01-21,NA,NA,1,0,0,NA
+2020-01-22,Hunan,China,female,23,2020-01-16,2020-01-21,NA,NA,1,0,0,NA
+2020-01-22,Guizhou,China,female,50,2020-01-14,2020-01-22,2020-01-10,2020-01-12,0,0,0,NA
+2020-01-23,Gansu,China,male,43,2020-01-18,2020-01-21,2020-01-11,2020-01-17,0,0,0,NA
+2020-01-23,Heilongjiang,China,male,49,2020-01-23,NA,NA,2020-01-23,1,0,0,NA
+2020-01-23,Shanxi,China,male,42,2020-01-20,2020-01-21,2020-01-12,2020-01-15,1,0,0,NA
+2020-01-23,Shanxi,China,female,32,2020-01-16,2020-01-20,2020-01-12,2020-01-14,1,0,0,NA
+2020-01-23,Shanxi,China,male,22,2020-01-20,2020-01-21,2020-01-15,2020-01-17,1,0,0,NA
+2020-01-23,Xinjiang,China,male,47,NA,NA,2020-01-15,2020-01-20,1,0,0,NA
+2020-01-23,Xinjiang,China,male,52,NA,NA,NA,2020-01-19,1,0,0,NA
+2020-01-23,Yunnan,China,male,53,NA,NA,NA,2020-01-16,1,0,0,NA
+2020-01-23,Tianjin,China,male,46,NA,NA,NA,NA,0,0,0,NA
+2020-01-23,Hubei,China,female,85,NA,NA,NA,NA,0,1,0,NA
+2020-01-23,Hubei,China,female,69,2020-01-14,2020-01-20,NA,NA,0,1,0,NA
+2020-01-23,Hubei,China,male,36,2020-01-06,2020-01-09,NA,NA,0,1,0,NA
+2020-01-23,Hubei,China,male,73,2019-12-29,2020-01-05,NA,NA,0,1,0,NA
+2020-01-23,Hubei,China,female,70,2020-01-15,2020-01-18,NA,NA,0,1,0,NA
+2020-01-23,Hubei,China,male,81,2020-01-09,2020-01-13,NA,NA,0,1,0,NA
+2020-01-23,Hubei,China,female,65,NA,2020-01-15,NA,NA,0,1,0,NA
+2020-01-23,Liaoning,China,male,42,2020-01-19,2020-01-22,NA,2020-01-18,1,0,0,NA
+2020-01-24,Inner Mongolia,China,male,30,NA,2020-01-20,NA,2020-01-21,1,0,0,NA
+2020-01-24,Tianjin,China,female,29,2020-01-24,2020-01-24,NA,2020-01-23,1,0,0,NA
+2020-01-24,Beijing,China,female,NA,NA,NA,NA,2020-01-08,1,0,0,NA
+2020-01-24,Shanxi,China,male,49,2020-01-19,2020-01-19,NA,2020-01-19,1,0,0,NA
+2020-01-24,Shanxi,China,male,23,NA,2020-01-22,NA,2020-01-22,1,0,0,NA
+2020-01-24,Shanghai,China,female,56,2020-01-10,2020-01-15,NA,2020-01-12,1,0,0,NA
+2020-01-24,Tianjin,China,male,39,NA,NA,NA,NA,1,0,0,NA
+2020-01-24,Yunnan,China,female,39,NA,2020-01-22,2019-12-17,2020-01-15,1,0,0,NA
+2020-01-24,Yunnan,China,female,34,NA,2020-01-23,NA,2020-01-20,1,0,0,NA
+2020-01-24,Yunnan,China,male,49,NA,2020-01-23,NA,NA,0,0,0,NA
+2020-01-24,Hubei,China,male,70,2020-01-15,2020-01-19,NA,NA,1,1,0,NA
+2020-01-24,Hubei,China,female,76,2020-01-08,NA,NA,NA,1,1,0,NA
+2020-01-24,Hubei,China,male,72,2020-01-11,2020-01-18,NA,NA,1,1,0,NA
+2020-01-24,Hubei,China,male,79,2020-01-11,2020-01-17,NA,NA,1,1,0,NA
+2020-01-24,Hubei,China,male,55,2020-01-09,2020-01-19,NA,NA,1,1,0,NA
+2020-01-24,Hubei,China,male,87,2020-01-12,2020-01-19,NA,NA,1,1,0,NA
+2020-01-24,Hubei,China,female,66,2020-01-09,2020-01-19,NA,NA,1,1,0,NA
+2020-01-24,Hubei,China,male,58,2020-01-03,2020-01-18,NA,NA,1,1,0,NA
+2020-01-24,Hubei,China,male,66,NA,2020-01-11,NA,NA,1,1,0,NA
+2020-01-24,Hubei,China,male,78,2020-01-13,2020-01-23,NA,NA,1,1,0,NA
+2020-01-24,Hubei,China,male,67,2020-01-10,2020-01-15,NA,NA,1,1,0,NA
+2020-01-24,Hubei,China,male,65,2020-01-12,2020-01-16,NA,NA,1,1,0,NA
+2020-01-24,Hubei,China,male,58,2019-12-23,2020-01-01,NA,NA,1,1,0,NA
+2020-01-24,Hubei,China,female,67,2020-01-05,2020-01-12,NA,NA,1,1,0,NA
+2020-01-24,Hubei,China,female,82,2020-01-10,2020-01-17,NA,NA,1,1,0,NA
+2020-01-25,Guangxi,China,female,49,2020-01-21,2020-01-22,NA,2020-01-15,1,0,0,NA
+2020-01-25,Guangxi,China,female,2,2020-01-22,2020-01-23,NA,2020-01-21,1,0,0,NA
+2020-01-25,Beijing,China,male,NA,NA,NA,NA,2020-01-08,1,0,0,NA
+2020-01-21,Tianjin,China,female,59,2020-01-14,NA,NA,NA,1,0,0,NA
+2020-01-21,Tianjin,China,male,57,2020-01-18,NA,NA,NA,1,0,0,NA
+2020-01-22,Tianjin,China,female,68,2020-01-14,NA,NA,NA,1,0,0,NA
+2020-01-22,Tianjin,China,male,40,2020-01-14,NA,NA,NA,1,0,0,NA
+2020-01-23,Tianjin,China,male,46,2020-01-15,2020-01-17,NA,NA,0,0,0,NA
+2020-01-24,Tianjin,China,male,56,2020-01-19,2020-01-23,NA,NA,0,0,0,NA
+2020-01-24,Tianjin,China,female,29,2020-01-24,2020-01-24,NA,2020-01-23,1,0,0,NA
+2020-01-24,Tianjin,China,male,29,2020-01-23,2020-01-24,2020-01-19,2020-01-22,1,0,0,NA
+2020-01-25,Tianjin,China,male,57,2020-01-24,2020-01-24,NA,2020-01-17,1,0,0,NA
+2020-01-25,Tianjin,China,male,30,2020-01-24,2020-01-24,2020-01-18,2020-01-20,1,0,0,NA
+2020-01-25,Gansu,China,female,33,2020-01-18,2020-01-23,NA,2020-01-18,1,0,0,NA
+2020-01-25,Gansu,China,female,20,2020-01-19,2020-01-24,NA,2020-01-18,1,0,0,NA
+2020-01-25,Shanxi,China,female,24,2020-01-19,NA,NA,2020-01-21,1,0,0,NA
+2020-01-25,Shanxi,China,male,28,2020-01-21,2020-01-23,NA,2020-01-20,1,0,0,NA
+2020-01-25,Shanxi,China,male,41,2020-01-14,2020-01-23,2020-01-06,2020-01-07,1,0,0,NA
+2020-01-25,Shanxi,China,male,46,2020-01-23,NA,NA,2020-01-20,1,0,0,NA
+2020-01-25,Shanxi,China,female,45,2020-01-23,NA,NA,2020-01-20,1,0,0,NA
+2020-01-25,Shanxi,China,female,9,2020-01-21,NA,NA,2020-01-20,1,0,0,NA
+2020-01-25,Shanxi,China,male,40,2020-01-23,2020-01-23,NA,2020-01-23,1,0,0,NA
+2020-01-25,Shanxi,China,male,28,2020-01-20,2020-01-23,2020-01-09,2020-01-22,1,0,0,NA
+2020-01-25,Shanxi,China,male,27,2020-01-21,2020-01-21,NA,2020-01-18,1,0,0,NA
+2020-01-25,Shanxi,China,male,15,2020-01-21,2020-01-23,NA,2020-01-23,1,0,0,NA
+2020-01-25,Yunnan,China,female,42,NA,2020-01-23,NA,2020-01-18,1,0,0,NA
+2020-01-25,Yunnan,China,male,24,NA,2020-01-22,NA,2020-01-21,1,0,0,NA
+2020-01-25,Yunnan,China,female,32,NA,2020-01-24,NA,2020-01-16,1,0,0,NA
+2020-01-25,Yunnan,China,male,34,NA,2020-01-23,NA,2020-01-20,1,0,0,NA
+2020-01-25,Yunnan,China,male,63,NA,2020-01-23,NA,2020-01-21,1,0,0,NA
+2020-01-25,Yunnan,China,male,58,NA,2020-01-24,2020-01-09,2020-01-20,1,0,0,NA
+2020-01-21,Beijing,China,male,NA,2020-01-16,2020-01-20,2020-01-08,2020-01-16,1,0,0,NA
+2020-01-21,Beijing,China,male,NA,2020-01-14,2020-01-20,2020-01-10,2020-01-11,1,0,0,NA
+2020-01-25,Beijing,China,male,NA,2020-01-18,2020-01-20,2020-01-14,2020-01-14,0,0,0,NA
+2020-01-25,Xinjiang,China,male,49,2020-01-21,2020-01-21,NA,NA,0,0,0,NA
+2020-01-25,Ningxia,China,male,33,2020-01-22,2020-01-24,2020-01-11,2020-01-22,1,0,0,NA
+2020-01-25,Tianjin,China,female,55,2020-01-23,2020-01-23,NA,NA,0,0,0,NA
+2020-01-25,Tianjin,China,female,79,2020-01-24,2020-01-24,NA,NA,0,0,0,NA
+2020-01-25,Tianjin,China,female,19,2020-01-19,2020-01-20,NA,NA,0,0,0,NA
+2020-01-25,Macau,Macau,female,58,2020-01-23,2020-01-23,NA,2020-01-23,1,0,0,NA
+2020-01-25,Macau,Macau,female,39,2020-01-25,2020-01-25,NA,2020-01-22,1,0,0,NA
+2020-01-25,Macau,Macau,female,21,2020-01-25,2020-01-25,NA,2020-01-23,1,0,0,NA
+2020-01-25,Shanxi,China,female,30,NA,NA,NA,NA,0,0,0,NA
+2020-01-25,Shanxi,China,female,64,2020-01-10,2020-01-20,NA,2020-01-14,1,0,0,NA
+2020-01-25,Shanxi,China,male,44,2020-01-18,2020-01-24,2020-01-20,2020-01-21,1,0,0,NA
+2020-01-25,Shanxi,China,female,70,2020-01-23,NA,NA,NA,1,0,0,NA
+2020-01-25,Shanxi,China,female,52,NA,NA,NA,2020-01-23,0,0,0,NA
+2020-01-25,Shanxi,China,female,32,2020-01-17,2020-01-22,2020-01-12,2020-01-14,0,0,0,NA
+2020-01-25,Shanxi,China,male,33,NA,NA,NA,NA,0,0,0,NA
+2020-01-26,Tianjin,China,male,71,2020-01-25,2020-01-25,NA,2020-01-19,1,0,0,NA
+2020-01-26,Yunnan,China,male,31,NA,2020-01-24,NA,2020-01-20,1,0,0,NA
+2020-01-26,Yunnan,China,female,48,NA,2020-01-24,NA,2020-01-22,1,0,0,NA
+2020-01-26,Yunnan,China,female,19,NA,2020-01-24,NA,2020-01-15,1,0,0,NA
+2020-01-26,Yunnan,China,female,68,NA,2020-01-24,NA,2020-01-20,1,0,0,NA
+2020-01-26,Yunnan,China,male,71,NA,2020-01-24,NA,2020-01-20,1,0,0,NA
+2020-01-27,Beijing,China,male,35,2020-01-18,2020-01-21,NA,NA,0,0,0,NA
+2020-01-27,Beijing,China,female,4,2020-01-18,2020-01-21,NA,NA,0,0,0,NA
+2020-01-27,Beijing,China,male,38,2020-01-22,2020-01-25,NA,NA,1,0,0,NA
+2020-01-27,Beijing,China,female,69,2020-01-10,2020-01-22,NA,NA,1,0,0,NA
+2020-01-26,Tianjin,China,male,50,2020-01-25,2020-01-26,NA,2020-01-23,1,0,0,NA
+2020-01-26,Tianjin,China,male,78,2020-01-21,2020-01-23,NA,NA,0,0,0,NA
+2020-01-26,Tianjin,China,male,49,2020-01-26,2020-01-26,NA,NA,0,0,0,NA
+2020-01-26,Guizhou,China,male,34,NA,NA,NA,NA,1,0,0,NA
+2020-01-26,Jilin,China,male,NA,2020-01-25,2020-01-25,2020-01-19,2020-01-19,1,0,0,NA
+2020-01-26,Yunnan,China,female,55,NA,2020-01-24,NA,2020-01-22,1,0,0,NA
+2020-01-26,Yunnan,China,female,36,NA,2020-01-24,NA,2020-01-22,1,0,0,NA
+2020-01-26,Yunnan,China,male,65,NA,2020-01-21,NA,2020-01-13,1,0,0,NA
+2020-01-26,Jiangxi,China,male,38,NA,2020-01-23,2020-01-03,2020-01-05,1,0,0,NA
+2020-01-27,Shanxi,China,female,36,2020-01-21,2020-01-25,NA,2020-01-21,1,0,0,NA
+2020-01-27,Shanxi,China,male,18,2020-01-20,2020-01-23,NA,2020-01-22,1,0,0,NA
+2020-01-27,Shanxi,China,male,50,2020-01-18,2020-01-22,2020-01-13,2020-01-17,1,0,0,NA
+2020-01-27,Shanxi,China,female,40,2020-01-18,2020-01-22,2020-01-13,2020-01-17,1,0,0,NA
+2020-01-27,Shanxi,China,female,63,2020-01-10,2020-01-24,NA,2020-01-15,1,0,0,NA
+2020-01-27,Shanxi,China,female,47,2020-01-21,2020-01-23,NA,2020-01-23,1,0,0,NA
+2020-01-27,Shanxi,China,female,42,2020-01-23,2020-01-24,2020-01-19,2020-01-19,1,0,0,NA
+2020-01-27,Shanxi,China,male,48,2020-01-17,2020-01-19,NA,NA,0,0,0,NA
+2020-01-27,Shanxi,China,male,39,2020-01-23,2020-01-23,NA,2020-01-22,1,0,0,NA
+2020-01-27,Shanxi,China,female,41,2020-01-22,2020-01-22,NA,2020-01-18,1,0,0,NA
+2020-01-27,Shanxi,China,male,31,NA,2020-01-21,NA,2020-01-21,1,0,0,NA
+2020-01-27,Shanxi,China,male,27,2020-01-22,2020-01-24,NA,2020-01-18,1,0,0,NA
+2020-01-27,Hubei,China,female,28,2020-01-07,2020-01-10,NA,NA,1,0,1,"fever, cough, difficult in breathing"
+2020-01-27,Hubei,China,female,51,NA,2020-01-11,NA,NA,1,0,1,"fever, cough, difficult in breathing"
+2020-01-27,Shandong,China,male,37,NA,2020-01-17,NA,NA,1,0,1,fever
+2020-01-25,Bordeaux,France,male,48,2020-01-23,2020-01-23,NA,2020-01-22,1,0,0,NA
+2020-01-25,Paris,France,male,31,2020-01-19,2020-01-25,NA,2020-01-18,1,0,1,NA
+2020-01-25,Paris,France,female,30,2020-01-23,2020-01-25,NA,2020-01-19,1,0,1,NA
+2020-01-28,Paris,France,male,80,2020-01-25,2020-01-25,NA,2020-01-23,1,1,0,NA
+2020-01-29,Paris,France,female,NA,NA,NA,NA,2020-01-23,1,0,0,NA
+2020-01-30,Paris,France,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-08,France,France,NA,9,NA,NA,2020-01-24,2020-01-28,0,0,0,NA
+2020-02-08,France,France,NA,NA,NA,NA,2020-01-24,2020-01-28,0,0,0,NA
+2020-02-08,France,France,NA,NA,NA,NA,2020-01-24,2020-01-28,0,0,0,NA
+2020-02-08,France,France,NA,NA,NA,NA,2020-01-24,2020-01-28,0,0,0,NA
+2020-02-08,France,France,NA,NA,NA,NA,2020-01-24,2020-01-28,0,0,0,NA
+2020-02-15,France,France,NA,NA,NA,NA,2020-01-24,2020-01-28,0,0,0,NA
+2020-02-25,Paris,France,female,33,NA,NA,NA,NA,0,0,0,NA
+2020-02-25,Annecy,France,male,63,NA,NA,NA,NA,0,0,0,NA
+2020-02-26,Amiens,France,male,55,NA,NA,NA,NA,0,0,0,NA
+2020-02-26,Strasbourg,France,male,36,NA,NA,NA,NA,0,0,0,NA
+2020-02-26,Paris,France,male,60,NA,NA,NA,NA,0,1,0,NA
+2020-02-26,Annecy,France,female,60,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,Paris,France,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,Paris,France,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,Saint-Mande,France,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,Saint-Mande,France,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,Saint-Mande,France,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,Saint-Mande,France,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,Saint-Mande,France,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,Dijon,France,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,Dijon,France,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,Dijon,France,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,Lile,France,male,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,Nantes,France,female,58,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,Montpellier,France,male,31,NA,2020-02-27,NA,NA,0,0,0,NA
+2020-02-27,Paris,France,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,Brest,France,male,72,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,Dijon,France,male,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,Lyon,France,male,50,NA,2020-02-26,NA,NA,0,0,0,NA
+2020-02-27,Annecy,France,NA,65,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,Annecy,France,female,35,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,Bois-Guillaume,France,male,NA,2020-02-24,NA,NA,NA,0,0,0,NA
+2020-02-28,Nice,France,female,23,NA,NA,NA,NA,0,0,0,NA
+2020-01-15,Kanagawa,Japan,male,35,2020-01-03,2020-01-06,NA,2020-01-06,1,0,1,fever
+2020-01-24,Tokyo,Japan,male,45,2020-01-14,2020-01-15,NA,2020-01-19,1,0,0,NA
+2020-01-25,Tokyo,Japan,female,35,2020-01-21,2020-01-23,NA,2020-01-18,1,0,0,NA
+2020-01-26,Aichi,Japan,male,45,2020-01-23,2020-01-24,NA,2020-01-22,1,0,0,NA
+2020-01-28,Aichi,Japan,male,45,2020-01-22,2020-01-26,NA,2020-01-20,1,0,0,fever
+2020-01-28,Nara,Japan,male,65,2020-01-14,2020-01-17,2020-01-08,2020-01-16,0,0,0,"cough, chills, joint pain"
+2020-01-28,Hokkaido,Japan,female,45,2020-01-26,2020-01-27,NA,2020-01-21,1,0,0,"fever, cough"
+2020-01-29,Osaka,Japan,female,45,2020-01-20,2020-01-20,2020-01-12,2020-01-17,0,0,0,"fever, cough"
+2020-01-30,Tokyo,Japan,male,55,2020-01-29,NA,NA,2020-01-29,1,0,0,"sore throat, fever"
+2020-01-30,Mie,Japan,male,55,2020-01-25,2020-01-27,2019-12-24,2020-01-13,1,0,0,fever
+2020-01-30,Japan,Japan,female,35,2020-01-24,2020-01-24,2020-01-19,2020-01-20,1,0,0,"fever, cough"
+2020-01-30,Kyoto,Japan,female,25,2020-01-23,2020-01-28,2020-01-17,2020-01-18,1,0,0,fever
+2020-01-31,Haneda,Japan,female,25,2020-01-20,2020-01-29,2020-01-17,2020-01-22,1,0,0,NA
+2020-02-01,Japan,Japan,male,45,NA,NA,NA,2020-01-31,1,0,0,NA
+2020-02-01,Japan,Japan,male,45,2020-01-26,2020-01-30,NA,2020-01-31,1,0,0,"fever, cough"
+2020-02-01,Japan,Japan,male,35,NA,NA,NA,2020-01-31,1,0,0,NA
+2020-02-04,Chiba,Japan,female,35,2020-01-30,2020-01-31,NA,NA,1,0,0,"fever, nasal discharge"
+2020-02-04,Chiba,Japan,female,55,2020-01-31,2020-01-31,2020-01-19,2020-01-19,1,0,0,"fever, cough"
+2020-02-04,Japan,Japan,male,55,2020-01-25,2020-01-26,NA,2020-01-22,1,0,0,fever
+2020-02-05,Chiba,Japan,male,45,2020-01-24,2020-01-27,NA,NA,1,0,0,NA
+2020-02-05,Kyoto,Japan,male,25,2020-01-24,2020-01-27,NA,NA,0,0,0,fever
+2020-02-05,Japan,Japan,male,55,NA,NA,NA,NA,1,0,0,NA
+2020-02-08,Japan,Japan,male,25,NA,NA,NA,NA,1,0,0,NA
+2020-02-10,Japan,Japan,male,45,2020-02-08,2020-02-10,NA,2020-01-30,1,0,0,fever
+2020-02-10,Japan,Japan,male,55,2020-02-07,2020-02-07,NA,2020-01-30,1,0,0,"fever, cough"
+NA,Japan,Japan,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-13,Kanagawa,Japan,female,85,2020-01-22,2020-01-28,NA,NA,0,1,0,fatigue
+2020-02-13,Tokyo,Japan,male,75,2020-01-29,2020-01-29,NA,NA,0,0,0,fever
+2020-02-13,Wakayama,Japan,male,55,2020-01-31,2020-02-08,NA,NA,0,0,0,"fever, abdominal pain, diarrhea"
+2020-02-13,Chiba,Japan,male,25,2020-02-02,2020-02-10,NA,NA,0,0,0,"fever, cough"
+2020-02-14,Japan,Japan,male,75,2020-02-01,2020-02-06,NA,NA,0,1,0,"chills, fever, pneumonia"
+2020-02-14,Okinawa,Japan,female,65,2020-02-05,2020-02-12,NA,NA,0,0,0,"cough, joint pain"
+2020-02-14,Tokyo,Japan,female,55,2020-02-04,2020-02-07,NA,NA,0,0,0,"vomiting, diarrhea, fever, cough"
+2020-02-14,Tokyo,Japan,male,75,2020-01-20,2020-01-21,NA,NA,0,0,0,"fever, loss of appetite"
+2020-02-14,Aichi,Japan,male,65,2020-02-03,2020-02-08,NA,NA,0,0,0,fever
+2020-02-14,Hokkaido,Japan,male,55,2020-01-31,NA,NA,NA,0,0,0,"fever, cough, malaise"
+2020-02-14,Kanagawa,Japan,male,35,2020-02-11,2020-02-10,NA,NA,0,0,0,fever
+2020-02-15,Wakayama,Japan,male,55,2020-02-04,2020-02-06,NA,NA,0,0,0,fever
+2020-02-15,Wakayama,Japan,female,55,2020-02-07,NA,NA,NA,0,0,0,"fever, cough"
+2020-02-15,Wakayama,Japan,male,65,NA,NA,NA,NA,0,0,0,"fever, headache"
+2020-02-15,Aichi,Japan,female,65,2020-02-13,2020-02-14,NA,NA,0,0,0,NA
+2020-02-15,Tokyo,Japan,female,65,NA,NA,NA,NA,0,0,0,NA
+2020-02-15,Tokyo,Japan,male,45,NA,NA,NA,NA,0,0,0,NA
+2020-02-16,Tokyo,Japan,male,65,NA,NA,NA,NA,0,0,0,"fatigue, dyspnea"
+2020-02-16,Tokyo,Japan,male,35,2020-02-03,2020-02-04,NA,NA,0,0,0,"fever, malaise"
+2020-02-16,Aichi,Japan,male,65,2020-02-15,2020-02-15,NA,NA,0,0,0,fever
+2020-02-16,Nara,Japan,male,65,2020-02-06,2020-02-07,NA,NA,0,0,0,"fever, malaise"
+2020-02-17,Aichi,Japan,male,65,2020-02-17,2020-02-17,NA,NA,0,0,0,"fever, malaise"
+2020-02-17,Wakayama,Japan,female,85,NA,2020-02-17,NA,NA,0,0,0,NA
+2020-02-17,Wakayama,Japan,female,55,NA,2020-02-17,NA,NA,0,0,0,NA
+2020-02-17,Wakayama,Japan,male,55,2020-02-03,2020-02-04,NA,NA,0,0,0,fever
+2020-02-17,Wakayama,Japan,male,55,2020-02-07,2020-02-07,NA,NA,0,0,0,fever
+2020-02-17,Wakayama,Japan,female,45,2020-02-14,2020-02-14,NA,NA,0,0,0,"fever, vomiting, diarrhea"
+2020-02-18,Wakayama,Japan,male,65,2020-02-16,2020-02-11,NA,NA,0,0,0,fever
+2020-02-18,Wakayama,Japan,male,35,2020-02-16,2020-02-17,NA,NA,0,0,0,fever
+2020-02-18,Tokyo,Japan,male,85,2020-02-09,NA,NA,NA,0,1,0,"fever, pneumonia"
+2020-02-18,Japan,Japan,male,25,2020-02-07,NA,NA,NA,0,0,0,fever
+2020-02-18,Japan,Japan,male,55,2020-02-05,NA,NA,NA,0,0,0,"fever, cough, sputum, malaise"
+2020-02-18,Aichi,Japan,male,65,NA,NA,NA,NA,0,0,0,NA
+2020-02-19,Sagamihara,Japan,male,85,NA,NA,NA,NA,0,0,0,NA
+2020-02-19,Sagamihara,Japan,male,75,2020-02-14,NA,2020-02-10,2020-02-18,0,0,0,"fever, cough"
+2020-02-19,Kanagawa,Japan,male,65,2020-02-03,2020-02-05,NA,NA,0,0,0,fever
+2020-02-19,Sapporo,Japan,male,45,2020-02-08,2020-02-13,NA,NA,0,0,0,"fatigue, muscle pain, joint pain, fever"
+2020-02-19,Hokkaido,Japan,male,65,2020-02-03,2020-02-07,NA,NA,0,0,0,"fever, sore throat"
+2020-02-19,Okinawa,Japan,male,65,2020-02-11,2020-02-18,NA,NA,0,0,0,"fever, dyspnea, malaise"
+2020-02-19,Tokyo,Japan,male,75,2020-02-04,NA,NA,NA,0,0,0,"cough, malaise, dyspnea"
+2020-02-19,Tokyo,Japan,female,75,2020-02-04,NA,NA,NA,0,0,0,"cough, malaise, dyspnea"
+2020-02-19,Tokyo,Japan,female,75,2020-02-03,NA,NA,NA,0,0,0,"cough, sputum, dyspnea"
+2020-02-19,Nagoya,Japan,female,55,2020-02-17,2020-02-17,NA,NA,0,0,0,"fever, malaise"
+2020-02-19,Japan,Japan,male,55,NA,NA,NA,2020-02-17,0,0,0,NA
+2020-02-20,Fukuoka,Japan,male,65,2020-02-13,2020-02-13,NA,NA,0,0,0,"fever, pneumonia"
+2020-02-20,Hokkaido,Japan,male,45,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,Chiba,Japan,female,75,2020-02-14,2020-02-15,NA,NA,0,0,0,fever
+2020-02-20,Okinawa,Japan,male,85,2020-02-06,2020-02-17,NA,NA,0,0,0,"fever, malaise, diarrhea, cough"
+2020-02-20,Japan,Japan,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,Japan,Japan,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,Nagoya,Japan,male,85,2020-02-19,2020-02-19,NA,NA,0,0,0,fever
+2020-02-20,Sagamihara,Japan,male,85,2020-02-14,NA,2020-01-11,NA,0,0,0,fever
+2020-02-20,Fukuoka,Japan,female,65,NA,NA,NA,NA,0,0,0,NA
+2020-02-21,Hokkaido,Japan,male,5,2020-02-15,2020-02-17,NA,NA,0,0,1,fever
+2020-02-21,Hokkaido,Japan,male,15,2020-02-18,2020-02-19,NA,NA,0,0,1,NA
+2020-02-21,Hokkaido,Japan,female,45,2020-02-16,2020-02-18,NA,NA,0,0,1,fever
+2020-02-21,Ishikawa,Japan,male,55,2020-02-16,2020-02-16,NA,NA,0,0,1,fever
+2020-02-21,Saitama,Japan,NA,5,2020-02-14,NA,NA,2020-01-30,1,0,1,NA
+2020-02-21,Tokyo,Japan,female,55,2020-02-10,NA,NA,NA,0,0,1,"fever, cough, sputum"
+2020-02-21,Tokyo,Japan,female,75,2020-02-01,NA,NA,NA,0,0,1,"fever, cough, malaise"
+2020-02-21,Tokyo,Japan,female,55,2020-02-04,NA,NA,NA,0,0,1,fatigue
+2020-02-21,Chiba,Japan,male,65,2020-02-06,2020-02-09,NA,NA,0,0,1,"fatigue, loss of appetite"
+2020-02-21,Sagamihara,Japan,male,85,2020-02-18,2020-02-19,NA,NA,0,0,1,NA
+2020-02-21,Nagoya,Japan,male,75,2020-02-19,2020-02-21,NA,NA,0,0,1,"fever, cough"
+2020-02-21,Nagoya,Japan,female,25,2020-02-20,2020-02-21,NA,NA,0,0,1,"fever, cough, dyspnea"
+2020-02-22,Kumamoto,Japan,female,25,2020-02-17,2020-02-18,NA,NA,0,0,0,"cough, fever, headache, nausea, vomiting, diarrhea"
+2020-02-22,Kumamoto,Japan,male,55,2020-02-20,2020-02-21,NA,NA,0,0,0,"cough, fever"
+2020-02-22,Kumamoto,Japan,male,65,2020-02-15,2020-02-19,NA,NA,0,0,0,"fatigue, chills, fever, vomiting"
+2020-02-22,Wakayama,Japan,male,45,2020-02-02,2020-02-02,NA,NA,0,0,0,"fever, fatigue, cough, diarrhea"
+2020-02-22,Chiba,Japan,female,65,2020-02-12,2020-02-12,NA,NA,0,0,0,nausea
+2020-02-22,Japan,Japan,female,55,2020-02-16,2020-02-19,NA,NA,0,0,0,"fatigue, joint pain, fever"
+2020-02-22,Hokkaido,Japan,female,75,2020-02-06,2020-02-10,NA,NA,0,0,0,"cough, sputum"
+2020-02-22,Hokkaido,Japan,male,85,2020-02-03,2020-02-03,NA,NA,0,1,0,dyspnea
+2020-02-22,Hokkaido,Japan,male,75,2020-02-16,2020-02-20,NA,NA,0,0,0,"fever, cough, malaise"
+2020-02-22,Hokkaido,Japan,female,55,2020-02-17,2020-02-19,NA,NA,0,0,0,NA
+2020-02-22,Hokkaido,Japan,male,65,2020-02-10,2020-02-10,NA,NA,0,0,0,fever
+2020-02-22,Hokkaido,Japan,female,55,2020-02-15,2020-02-16,NA,NA,0,0,0,"fatigue, malaise, headache"
+2020-02-22,Hokkaido,Japan,female,15,2020-02-06,2020-02-07,NA,NA,0,0,0,"fever, sore throat, malaise"
+2020-02-22,Hokkaido,Japan,female,55,2020-02-13,2020-02-15,NA,NA,0,0,0,"sore throat, cough, fever"
+2020-02-22,Tokyo,Japan,male,65,2020-02-12,NA,NA,NA,0,0,0,"fever, cough"
+2020-02-22,Nagoya,Japan,female,65,2020-02-19,2020-02-21,NA,NA,0,0,0,"fever, nasal discharge, headache"
+2020-02-22,Nagoya,Japan,female,46,2020-02-20,2020-02-21,NA,NA,0,0,0,fever
+2020-02-22,Nagoya,Japan,male,65,2020-02-20,2020-02-21,NA,NA,0,0,0,"fever, cough, malaise"
+2020-02-22,Nagoya,Japan,male,65,2020-02-20,2020-02-21,NA,NA,0,0,0,fever
+2020-02-22,Japan,Japan,female,65,2020-02-21,2020-02-22,NA,NA,0,0,0,fever
+2020-02-22,Sagamihara,Japan,male,55,2020-02-16,2020-02-17,NA,NA,0,0,0,fever
+2020-02-22,Hokkaido,Japan,male,55,2020-02-17,2020-02-18,NA,NA,0,0,0,"fever, dyspnea"
+2020-02-23,Sapporo,Japan,male,75,NA,NA,NA,NA,0,0,0,NA
+2020-02-23,Nagoya,Japan,female,75,2020-02-22,2020-02-22,NA,NA,0,0,0,fever
+2020-02-23,Nagoya,Japan,male,75,2020-02-21,2020-02-22,NA,NA,0,0,0,"fever, cough"
+2020-02-23,Chiba,Japan,male,45,2020-02-12,2020-02-18,NA,NA,0,0,0,"joint pain, muscle pain, cough, malaise"
+2020-02-23,Hokkaido,Japan,male,35,NA,NA,NA,NA,0,0,0,NA
+2020-02-23,Hokkaido,Japan,female,65,NA,NA,NA,NA,0,0,0,NA
+2020-02-23,Hokkaido,Japan,male,25,NA,NA,NA,NA,0,0,0,NA
+2020-02-23,Hokkaido,Japan,male,75,NA,NA,NA,NA,0,0,0,NA
+2020-02-23,Hokkaido,Japan,female,35,NA,NA,NA,NA,0,0,0,NA
+2020-02-23,Hokkaido,Japan,male,85,NA,NA,NA,NA,0,0,0,NA
+2020-02-23,Hokkaido,Japan,female,45,NA,NA,NA,NA,0,0,0,NA
+2020-02-23,Hokkaido,Japan,female,25,NA,NA,NA,NA,0,0,0,NA
+2020-02-23,Ishikawa,Japan,female,55,NA,NA,NA,NA,0,0,0,NA
+2020-02-23,Sagamihara,Japan,male,55,2020-02-16,2020-02-17,NA,NA,0,0,0,"fever, headache"
+2020-02-24,Ishikawa,Japan,male,65,2020-02-16,2020-02-17,NA,NA,0,0,0,"fever, sore throat"
+2020-02-24,Sapporo,Japan,female,75,2020-02-21,2020-02-22,NA,NA,0,0,0,"fever, cough"
+2020-02-24,Sapporo,Japan,male,55,2020-02-14,2020-02-17,NA,NA,0,0,0,chills
+2020-02-24,Hokkaido,Japan,female,25,2020-02-18,2020-02-23,NA,NA,0,0,0,fever
+2020-02-24,Hokkaido,Japan,male,55,2020-02-17,2020-02-20,NA,NA,0,0,0,cough
+2020-02-24,Kanagawa,Japan,male,55,2020-02-14,2020-02-17,NA,NA,0,0,0,"fever, dyspnea"
+2020-02-24,Tokyo,Japan,male,45,2020-02-13,NA,NA,NA,0,0,0,"fever, malaise"
+2020-02-24,Tokyo,Japan,male,55,2020-02-19,NA,NA,NA,0,0,0,"fever, malaise"
+2020-02-24,Tokyo,Japan,male,35,2020-02-18,NA,NA,NA,0,0,0,"fever, sore throat"
+2020-02-24,Sagamihara,Japan,female,55,2020-02-20,NA,NA,NA,0,0,0,"cough, sputum, sore throat"
+2020-02-24,Sagamihara,Japan,female,25,2020-02-21,NA,NA,NA,0,0,0,"cough, nasal discharge"
+2020-02-24,Sagamihara,Japan,female,25,2020-02-19,2020-02-19,NA,NA,0,0,0,"fever, chills, joint pain, headache, nausea"
+2020-02-25,Nagano,Japan,male,65,2020-02-20,2020-02-21,NA,NA,0,0,0,"fatigue, fever"
+2020-02-25,Kumamoto,Japan,male,55,2020-02-20,2020-02-24,NA,NA,0,0,0,sore throat
+2020-02-25,Kumamoto,Japan,female,65,2020-02-25,2020-02-25,NA,NA,0,0,0,fever
+2020-02-25,Sapporo,Japan,female,65,2020-02-17,2020-02-17,NA,NA,0,0,0,fever
+2020-02-25,Ishikawa,Japan,female,55,NA,NA,NA,NA,0,0,0,NA
+2020-02-25,Nagoya,Japan,female,75,2020-02-20,2020-02-21,NA,NA,0,0,0,fever
+2020-02-25,Nagoya,Japan,female,75,2020-02-23,2020-02-23,NA,NA,0,0,0,"fever, cough"
+2020-02-25,Nagoya,Japan,female,45,2020-02-23,2020-02-23,NA,NA,0,0,0,"fever, nasal discharge"
+2020-02-26,Chiba,Japan,male,55,2020-02-22,2020-02-25,2020-02-12,2020-02-18,0,0,0,fever
+2020-02-26,Chiba,Japan,male,65,2020-02-22,2020-02-24,NA,2020-02-20,0,0,0,fever
+2020-02-26,Chiba,Japan,male,75,2020-02-12,NA,NA,2020-02-21,0,0,0,fever
+2020-02-26,Hokkaido,Japan,male,25,2020-02-17,2020-02-18,NA,NA,0,0,0,"headache, fever, malaise"
+2020-02-26,Hokkaido,Japan,female,25,2020-02-19,2020-02-24,NA,NA,0,0,0,"sore throat, fever"
+2020-02-26,Hokkaido,Japan,male,75,2020-02-23,NA,NA,NA,0,0,0,fever
+2020-02-26,Hokkaido,Japan,NA,NA,2020-02-16,2020-02-17,NA,NA,0,1,0,cough
+2020-02-26,Hokkaido,Japan,female,75,2020-02-17,2020-02-20,NA,NA,0,0,0,"fever, malaise"
+2020-02-26,Hokkaido,Japan,female,75,2020-02-16,2020-02-16,NA,NA,0,0,0,"fever, cough"
+2020-02-26,Hokkaido,Japan,male,45,2020-02-24,2020-02-24,NA,NA,0,0,0,"fever, cough"
+2020-02-26,Kanagawa,Japan,male,65,NA,2020-02-26,NA,NA,0,0,0,"fever, cough, malaise"
+2020-02-26,Osaka,Japan,female,45,2020-02-06,2020-02-06,NA,NA,0,0,0,"sore throat, cough, chest pain"
+2020-02-26,Tokyo,Japan,male,85,2020-02-22,NA,NA,NA,0,0,0,"fever, cough, sputum, dyspnea"
+2020-02-26,Tokyo,Japan,male,75,2020-02-12,NA,NA,NA,0,0,0,"fever, cough, sputum, dyspnea"
+2020-02-26,Tokyo,Japan,male,75,2020-02-14,NA,NA,NA,0,0,0,"fever, cough, sputum"
+2020-02-26,Nagoya,Japan,male,55,2020-02-24,2020-02-25,NA,NA,0,0,0,"fever, thirst"
+2020-02-26,Nagoya,Japan,male,65,2020-02-25,2020-02-25,NA,NA,0,0,0,fever
+2020-02-26,Nagoya,Japan,male,75,2020-02-24,2020-02-25,NA,NA,0,0,0,"fever, cough, nasal discharge"
+2020-02-26,Nagoya,Japan,male,75,2020-02-23,2020-02-25,NA,NA,0,0,0,"fever, cough, malaise"
+2020-02-26,Nagoya,Japan,female,75,2020-02-24,2020-02-24,NA,NA,0,0,0,"fever, cough, sore throat, nasal discharge"
+2020-02-27,Gifu,Japan,male,55,2020-02-14,2020-02-15,NA,NA,0,0,0,"malaise, fever, headache"
+2020-02-27,Gifu,Japan,female,55,2020-02-23,2020-02-26,2020-02-20,2020-02-24,0,0,0,"sore throat, chills"
+2020-02-27,Ishikawa,Japan,male,55,2020-02-16,2020-02-17,NA,NA,0,0,0,fever
+2020-02-27,Kanagawa,Japan,male,55,2020-02-20,2020-02-20,NA,NA,0,0,0,"fever, headache, malaise"
+2020-02-27,Tokyo,Japan,female,60,2020-02-10,NA,NA,NA,0,0,0,"fever, cough, sputum"
+2020-02-27,Osaka,Japan,male,45,2020-02-20,2020-02-26,NA,NA,0,0,0,"fever, cough, headache"
+2020-02-27,Hokkaido,Japan,male,55,2020-02-25,2020-02-25,NA,NA,0,0,0,NA
+2020-02-27,Hokkaido,Japan,male,55,2020-02-25,2020-02-25,NA,NA,0,0,0,"cough, malaise"
+2020-02-27,Hokkaido,Japan,male,35,2020-02-17,2020-02-18,NA,NA,0,0,0,fever
+2020-02-27,Hokkaido,Japan,male,75,2020-02-16,2020-02-20,NA,NA,0,0,0,"fatigue, fever"
+2020-02-27,Hokkaido,Japan,male,65,2020-02-18,2020-02-22,NA,NA,0,0,0,"sore throat, fever, joint pain, dyspnea"
+2020-02-27,Hokkaido,Japan,male,45,2020-02-15,2020-02-17,NA,NA,0,0,0,"vomiting, cough, fever, sore throat"
+2020-02-27,Hokkaido,Japan,male,45,2020-02-21,2020-02-21,NA,NA,0,0,0,fever
+2020-02-27,Hokkaido,Japan,male,5,2020-02-21,2020-02-24,NA,NA,0,0,0,"fever, cough"
+2020-02-27,Hokkaido,Japan,male,35,2020-02-24,2020-02-25,NA,NA,0,0,0,"fever, headache, malaise, joint pain"
+2020-02-27,Hokkaido,Japan,male,5,2020-02-21,2020-02-22,NA,NA,0,0,0,"fever, cough"
+2020-02-27,Hokkaido,Japan,male,85,2020-02-24,2020-02-24,NA,NA,0,0,0,"fever, cough"
+2020-02-27,Hokkaido,Japan,male,35,2020-02-20,2020-02-23,NA,NA,0,0,0,"cough, fever, joint pain"
+2020-02-27,Hokkaido,Japan,male,85,2020-02-22,2020-02-24,NA,NA,0,0,0,"cough, fever"
+2020-02-27,Hokkaido,Japan,male,65,2020-02-22,2020-02-22,NA,NA,0,0,0,"fever, malaise, sore throat"
+2020-02-27,Hokkaido,Japan,female,45,2020-02-24,NA,NA,NA,0,0,0,"cough, sore throat"
+2020-02-27,Nagoya,Japan,female,65,2020-02-26,2020-02-26,NA,NA,0,0,0,fever
+2020-02-27,Nagoya,Japan,male,65,2020-02-26,2020-02-26,NA,NA,0,0,0,"fever, cough, headache"
+2020-01-24,Johor,Malaysia,male,40,2020-01-23,2020-01-23,NA,NA,1,0,1,NA
+2020-01-25,Johor,Malaysia,female,65,2020-01-24,NA,NA,NA,0,0,1,NA
+2020-01-25,Johor,Malaysia,male,11,2020-01-24,NA,NA,NA,0,0,1,NA
+2020-01-25,Johor,Malaysia,male,2,2020-01-24,NA,NA,NA,0,0,1,NA
+2020-01-29,Langkawi,Malaysia,female,4,NA,2020-01-26,NA,2020-01-20,0,0,1,"fever, cough, flu"
+2020-01-29,Johor,Malaysia,female,36,NA,NA,NA,2020-01-23,0,0,1,NA
+2020-01-29,Johor,Malaysia,male,52,NA,NA,NA,NA,0,0,1,NA
+2020-01-30,Johor,Malaysia,female,49,NA,NA,NA,NA,0,0,1,NA
+2020-02-04,Malaysia,Malaysia,male,41,NA,2020-01-29,2020-01-16,2020-01-23,0,0,1,NA
+2020-02-04,Malaysia,Malaysia,male,63,2020-01-23,NA,NA,2020-01-18,1,0,1,fever
+2020-02-05,Malaysia,Malaysia,male,45,NA,NA,NA,2020-02-04,1,0,1,NA
+2020-02-05,Malaysia,Malaysia,male,9,NA,NA,NA,2020-02-04,1,0,1,NA
+2020-02-06,Malaysia,Malaysia,female,40,2020-02-01,NA,NA,NA,0,0,0,"fever, sore throat, cough"
+2020-02-06,Malaysia,Malaysia,female,37,NA,2020-02-01,NA,2020-01-25,1,0,0,fever
+2020-02-07,Johor,Malaysia,female,59,2020-01-26,NA,NA,2020-01-17,1,0,1,fever
+2020-02-08,Malaysia,Malaysia,female,67,NA,NA,NA,2020-01-25,1,0,1,NA
+2020-02-09,Malaysia,Malaysia,female,65,NA,NA,2020-01-26,2020-01-28,0,0,1,NA
+2020-02-10,Malaysia,Malaysia,male,31,2020-02-03,NA,NA,2020-02-01,0,0,1,cough
+2020-02-13,Malaysia,Malaysia,female,39,NA,NA,NA,NA,1,0,0,NA
+2020-02-16,Malaysia,Malaysia,male,27,2020-02-13,2020-02-13,NA,NA,0,0,1,fever
+2020-02-16,Malaysia,Malaysia,female,32,2020-02-13,NA,2020-01-22,2020-01-30,0,0,1,sore throat
+2020-02-16,Malaysia,Malaysia,female,83,NA,NA,NA,2020-02-13,0,0,1,NA
+2020-02-27,Malaysia,Malaysia,female,53,NA,NA,NA,2020-02-23,0,0,0,NA
+2020-01-25,Kathmandu,Nepal,male,32,2020-01-03,2020-01-13,NA,2020-01-13,1,0,1,NA
+2020-01-24,Singapore,Singapore,male,66,2020-01-21,2020-01-22,NA,2020-01-20,1,0,1,NA
+2020-01-24,Singapore,Singapore,female,53,2020-01-21,2020-01-22,NA,2020-01-21,1,0,1,"fever, cough, chills"
+2020-01-24,Singapore,Singapore,male,37,NA,NA,NA,2020-01-22,1,0,1,NA
+2020-01-26,Singapore,Singapore,male,36,2020-01-23,2020-01-24,NA,2020-01-22,1,0,1,NA
+2020-01-27,Singapore,Singapore,female,56,2020-01-24,2020-01-26,NA,2020-01-18,1,0,1,NA
+2020-01-28,Singapore,Singapore,male,56,2020-01-25,2020-01-26,NA,2020-01-19,1,0,1,NA
+2020-01-28,Singapore,Singapore,male,35,2020-01-24,2020-01-24,NA,2020-01-23,1,0,1,NA
+2020-01-29,Singapore,Singapore,female,56,2020-01-24,2020-01-27,NA,2020-01-19,1,0,1,NA
+2020-01-29,Singapore,Singapore,male,56,2020-01-24,2020-01-27,NA,2020-01-19,1,0,1,NA
+2020-01-29,Singapore,Singapore,male,56,2020-01-21,2020-01-28,NA,2020-01-20,1,0,1,NA
+2020-01-30,Singapore,Singapore,female,31,2020-01-27,NA,NA,2020-01-22,1,0,1,NA
+2020-01-30,Singapore,Singapore,female,37,2020-01-26,2020-01-29,NA,2020-01-22,1,0,1,NA
+2020-01-30,Singapore,Singapore,female,73,2020-01-28,NA,NA,2020-01-21,1,0,1,NA
+2020-01-31,Singapore,Singapore,male,31,2020-01-28,2020-01-30,NA,2020-01-26,1,0,1,NA
+2020-01-31,Singapore,Singapore,female,47,2020-01-30,2020-01-30,NA,2020-01-30,1,0,1,fever
+2020-01-31,Singapore,Singapore,male,38,2020-01-23,2020-01-29,NA,2020-01-22,1,0,1,NA
+2020-02-01,Singapore,Singapore,female,47,2020-01-30,2020-01-30,NA,2020-01-30,1,0,1,fever
+2020-02-01,Singapore,Singapore,female,31,NA,NA,NA,2020-01-22,1,0,0,NA
+2020-02-04,Singapore,Singapore,female,28,2020-01-29,2020-02-03,2020-01-23,2020-01-23,0,0,1,"fever, sore throat"
+2020-02-04,Singapore,Singapore,female,48,2020-01-25,2020-02-03,2020-01-23,2020-01-23,0,0,0,NA
+2020-02-04,Singapore,Singapore,female,44,2020-02-02,2020-02-03,2020-01-23,NA,0,0,1,NA
+2020-02-04,Singapore,Singapore,NA,NA,NA,NA,NA,2020-01-30,1,0,1,NA
+2020-02-04,Singapore,Singapore,NA,NA,NA,NA,NA,2020-01-30,1,0,1,NA
+2020-02-04,Singapore,Singapore,female,32,NA,NA,2020-01-22,2020-01-27,0,0,1,NA
+2020-02-05,Singapore,Singapore,male,NA,2020-01-24,2020-02-03,NA,NA,0,0,1,fever
+2020-02-05,Singapore,Singapore,female,42,NA,NA,NA,2020-01-21,1,0,1,NA
+2020-02-05,Singapore,Singapore,male,1,NA,NA,2020-01-23,2020-02-03,0,0,1,NA
+2020-02-05,Singapore,Singapore,male,45,2020-02-01,2020-02-02,2020-01-23,2020-02-03,0,0,1,NA
+2020-02-06,Singapore,Singapore,male,41,2020-01-28,2020-01-29,NA,NA,0,0,1,fever
+2020-02-06,Singapore,Singapore,male,27,2020-01-21,2020-01-28,2020-01-20,2020-01-22,0,0,1,NA
+2020-02-07,Singapore,Singapore,male,53,2020-01-23,2020-01-23,NA,NA,0,0,1,NA
+2020-02-07,Singapore,Singapore,female,42,2020-02-02,2020-02-05,NA,NA,0,0,1,NA
+2020-02-07,Singapore,Singapore,female,39,2020-01-30,2020-02-02,NA,NA,0,0,1,NA
+2020-02-08,Singapore,Singapore,female,40,2020-01-27,2020-01-27,NA,2020-02-04,0,0,1,NA
+2020-02-08,Singapore,Singapore,male,64,2020-01-30,2020-01-31,NA,NA,0,0,0,NA
+2020-02-08,Singapore,Singapore,female,38,2020-01-24,2020-02-01,2020-01-20,2020-01-22,0,0,1,NA
+2020-02-08,Singapore,Singapore,male,53,2020-01-30,2020-02-01,NA,NA,0,0,0,NA
+2020-02-08,Singapore,Singapore,female,52,2020-02-03,2020-02-04,NA,NA,0,0,1,NA
+2020-02-08,Singapore,Singapore,male,51,2020-01-29,2020-02-03,2020-01-20,2020-01-22,0,0,1,NA
+2020-02-08,Singapore,Singapore,male,36,2020-01-30,2020-01-30,NA,2020-02-04,0,0,1,NA
+2020-02-09,Singapore,Singapore,male,71,2020-02-01,2020-02-01,NA,NA,0,0,0,NA
+2020-02-09,Singapore,Singapore,male,39,2020-02-01,2020-02-03,NA,NA,0,0,0,NA
+2020-02-09,Singapore,Singapore,male,54,2020-01-30,2020-01-30,NA,NA,0,0,0,NA
+2020-02-10,Singapore,Singapore,male,37,2020-01-31,2020-02-02,NA,NA,0,0,1,NA
+2020-02-10,Singapore,Singapore,female,2,NA,NA,NA,2020-01-30,1,0,1,NA
+2020-02-11,Singapore,Singapore,male,35,2020-02-05,2020-02-09,NA,NA,0,0,1,NA
+2020-02-11,Singapore,Singapore,male,39,2020-02-06,2020-02-07,NA,NA,0,0,0,NA
+2020-02-12,Singapore,Singapore,male,34,2020-02-01,2020-02-02,NA,NA,0,0,1,NA
+2020-02-12,Singapore,Singapore,male,46,2020-02-03,2020-02-08,NA,NA,0,0,1,NA
+2020-02-12,Singapore,Singapore,male,62,2020-02-07,2020-02-07,NA,NA,0,0,1,NA
+2020-02-13,Singapore,Singapore,male,48,2020-02-04,2020-02-05,NA,NA,0,0,1,NA
+2020-02-13,Singapore,Singapore,male,37,2020-02-07,2020-02-11,NA,NA,0,0,0,NA
+2020-02-13,Singapore,Singapore,male,54,2020-02-10,2020-02-12,NA,NA,0,0,0,NA
+2020-02-13,Singapore,Singapore,female,55,2020-02-10,2020-02-11,NA,NA,0,0,0,NA
+2020-02-13,Singapore,Singapore,male,30,2020-01-30,2020-01-30,NA,NA,0,0,1,NA
+2020-02-13,Singapore,Singapore,male,30,2020-02-12,NA,NA,NA,0,0,1,NA
+2020-02-13,Singapore,Singapore,male,26,2020-02-11,2020-02-11,NA,NA,0,0,1,NA
+2020-02-13,Singapore,Singapore,male,55,2020-02-10,2020-02-12,NA,NA,0,0,1,NA
+2020-02-14,Singapore,Singapore,male,61,2020-02-07,2020-02-10,NA,NA,0,0,1,NA
+2020-02-14,Singapore,Singapore,female,51,2020-02-08,2020-02-08,NA,NA,0,0,0,NA
+2020-02-14,Singapore,Singapore,male,57,2020-02-06,2020-02-06,NA,NA,0,0,0,NA
+2020-02-14,Singapore,Singapore,female,44,2020-02-09,2020-02-09,NA,NA,0,0,1,NA
+2020-02-14,Singapore,Singapore,female,54,2020-02-10,2020-02-13,NA,NA,0,0,1,NA
+2020-02-14,Singapore,Singapore,male,50,2020-02-03,2020-02-05,NA,NA,0,0,1,NA
+2020-02-14,Singapore,Singapore,female,61,NA,2020-02-12,NA,NA,0,0,1,NA
+2020-02-14,Singapore,Singapore,male,28,2020-01-29,2020-02-02,NA,NA,0,0,1,NA
+2020-02-14,Singapore,Singapore,female,56,2020-02-09,2020-02-13,NA,NA,0,0,0,NA
+2020-02-15,Singapore,Singapore,female,79,2020-01-30,2020-02-14,NA,NA,0,0,0,NA
+2020-02-15,Singapore,Singapore,male,26,2020-02-11,2020-02-14,NA,NA,0,0,0,NA
+2020-02-15,Singapore,Singapore,female,27,2020-02-03,2020-02-03,NA,NA,0,0,1,NA
+2020-02-15,Singapore,Singapore,male,25,2020-02-01,2020-02-10,NA,NA,0,0,0,NA
+2020-02-15,Singapore,Singapore,male,40,2020-02-10,2020-02-11,NA,NA,0,0,0,NA
+2020-02-16,Singapore,Singapore,male,43,2020-02-09,2020-02-10,NA,NA,0,0,1,NA
+2020-02-16,Singapore,Singapore,male,29,2020-02-12,2020-02-12,NA,NA,0,0,0,NA
+2020-02-16,Singapore,Singapore,female,71,NA,NA,NA,NA,0,0,0,NA
+2020-02-17,Singapore,Singapore,male,1,NA,NA,NA,2020-02-09,0,0,1,NA
+2020-02-17,Singapore,Singapore,male,35,NA,NA,NA,NA,0,0,1,NA
+2020-02-18,Singapore,Singapore,female,57,2020-02-09,2020-02-10,NA,NA,0,0,0,NA
+2020-02-18,Singapore,Singapore,female,35,2020-02-12,2020-02-17,NA,NA,0,0,0,NA
+2020-02-18,Singapore,Singapore,female,38,2020-02-04,2020-02-04,NA,NA,0,0,0,NA
+2020-02-18,Singapore,Singapore,male,50,2020-02-16,2020-02-17,NA,NA,0,0,1,NA
+2020-02-19,Singapore,Singapore,female,57,2020-02-09,2020-02-10,NA,NA,0,0,0,NA
+2020-02-19,Singapore,Singapore,male,54,2020-01-28,2020-02-01,NA,NA,0,0,1,NA
+2020-02-19,Singapore,Singapore,female,35,2020-02-04,2020-02-04,NA,NA,0,0,1,NA
+2020-02-19,Singapore,Singapore,male,36,2020-02-14,2020-02-14,NA,NA,0,0,0,NA
+2020-02-21,Singapore,Singapore,male,24,2020-02-14,2020-02-16,NA,NA,0,0,0,NA
+2020-02-22,Singapore,Singapore,male,32,NA,NA,NA,2020-02-09,1,0,1,NA
+2020-02-22,Singapore,Singapore,female,30,2020-02-16,2020-02-17,NA,NA,0,0,0,NA
+2020-02-22,Singapore,Singapore,male,41,2020-02-03,2020-02-03,NA,NA,0,0,0,NA
+2020-02-24,Singapore,Singapore,female,75,2020-02-09,2020-02-09,NA,NA,0,0,0,NA
+2020-02-25,Singapore,Singapore,female,58,2020-01-23,2020-02-01,NA,NA,0,0,1,NA
+2020-02-26,Singapore,Singapore,male,47,NA,NA,NA,NA,0,0,0,NA
+2020-02-26,Singapore,Singapore,male,38,NA,NA,NA,NA,0,0,0,NA
+2020-01-20,South Korea,South Korea,female,35,2020-01-18,2020-01-19,NA,2020-01-19,1,0,1,"fever, chills, muscle pain"
+2020-01-24,South Korea,South Korea,male,55,2020-01-10,2020-01-19,NA,2020-01-22,1,0,1,"fever, sore throat"
+2020-01-25,South Korea,South Korea,male,54,2020-01-22,2020-01-25,NA,2020-01-20,1,0,0,"fever, chills, muscle pain"
+2020-01-27,South Korea,South Korea,male,55,2020-01-21,2020-01-21,NA,2020-01-20,1,0,0,"fever, aching muscles"
+2020-01-30,South Korea,South Korea,male,32,NA,NA,NA,2020-01-24,1,0,0,NA
+2020-01-30,South Korea,South Korea,male,56,NA,NA,2020-01-22,2020-01-22,0,0,1,NA
+2020-01-31,South Korea,South Korea,male,28,2020-01-26,NA,NA,2020-01-23,1,0,0,cough
+2020-01-31,South Korea,South Korea,female,62,2020-01-21,NA,2020-01-21,2020-01-21,1,0,0,NA
+2020-01-30,South Korea,South Korea,female,28,NA,NA,NA,NA,0,0,1,NA
+2020-01-31,South Korea,South Korea,female,52,2020-01-29,NA,NA,NA,0,0,1,headache
+2020-01-31,South Korea,South Korea,male,25,2020-01-30,NA,NA,NA,0,0,0,muscle pain
+2020-02-01,South Korea,South Korea,male,48,2020-02-01,2020-02-01,NA,NA,0,0,1,NA
+2020-02-02,South Korea,South Korea,male,28,2020-02-01,NA,NA,2020-01-31,1,0,1,NA
+2020-02-02,Seoul,South Korea,female,40,NA,NA,NA,NA,0,0,1,NA
+2020-02-02,South Korea,South Korea,male,43,NA,NA,NA,2020-01-20,1,0,1,NA
+2020-02-04,South Korea,South Korea,female,42,2020-01-25,NA,2020-01-15,2020-01-19,0,0,1,chills
+2020-02-05,South Korea,South Korea,male,37,2020-01-26,2020-02-04,2020-01-18,2020-01-23,0,0,0,NA
+2020-02-05,South Korea,South Korea,female,21,NA,NA,2020-01-19,NA,0,0,1,NA
+2020-02-05,South Korea,South Korea,male,36,NA,NA,2020-01-18,2020-01-23,0,0,0,NA
+2020-02-06,South Korea,South Korea,female,41,NA,NA,NA,NA,0,0,1,NA
+2020-02-06,South Korea,South Korea,female,59,NA,NA,NA,NA,0,0,0,NA
+2020-02-06,South Korea,South Korea,male,46,NA,NA,NA,NA,0,0,1,NA
+2020-02-06,South Korea,South Korea,female,58,NA,NA,NA,2020-01-23,1,0,0,NA
+2020-02-07,South Korea,South Korea,male,28,NA,NA,NA,NA,1,0,1,sore throat
+2020-02-09,South Korea,South Korea,female,73,NA,NA,NA,2020-01-31,0,0,1,"fever, cough, sore throat"
+2020-02-09,South Korea,South Korea,male,51,NA,NA,NA,2020-01-31,0,0,0,NA
+2020-02-09,South Korea,South Korea,female,37,NA,NA,NA,2020-01-31,0,0,0,NA
+2020-02-11,South Korea,South Korea,female,30,NA,NA,NA,NA,0,0,0,NA
+2020-02-16,South Korea,South Korea,male,82,NA,2020-02-15,NA,NA,0,0,0,chest pain
+2020-02-17,South Korea,South Korea,female,68,2020-02-06,NA,NA,NA,0,0,0,"cough, chills, muscle pain"
+2020-02-18,South Korea,South Korea,female,61,2020-02-07,2020-02-17,NA,NA,0,0,0,fever
+2020-02-19,South Korea,South Korea,female,11,2020-02-08,NA,NA,NA,0,0,0,NA
+2020-02-19,South Korea,South Korea,female,40,NA,NA,NA,NA,0,0,0,NA
+2020-02-19,South Korea,South Korea,male,24,NA,NA,NA,NA,0,0,0,NA
+2020-02-19,South Korea,South Korea,female,26,NA,NA,NA,NA,0,0,0,NA
+2020-02-19,South Korea,South Korea,female,48,NA,NA,NA,NA,0,0,0,NA
+2020-02-19,South Korea,South Korea,male,49,NA,NA,NA,NA,0,0,1,NA
+2020-02-19,South Korea,South Korea,female,57,NA,NA,NA,NA,0,1,0,NA
+2020-02-19,South Korea,South Korea,female,61,NA,NA,NA,NA,0,0,0,NA
+2020-02-19,South Korea,South Korea,male,77,2020-02-11,NA,NA,NA,0,0,0,NA
+2020-02-19,South Korea,South Korea,female,69,NA,NA,NA,NA,0,0,0,NA
+2020-02-19,South Korea,South Korea,female,29,NA,NA,NA,NA,0,0,0,NA
+2020-02-19,South Korea,South Korea,female,58,NA,NA,NA,NA,0,0,0,NA
+2020-02-19,South Korea,South Korea,female,46,NA,NA,NA,NA,0,0,0,NA
+2020-02-19,South Korea,South Korea,female,54,NA,NA,NA,NA,0,0,0,NA
+2020-02-19,South Korea,South Korea,male,28,NA,NA,NA,NA,0,0,0,NA
+2020-02-19,South Korea,South Korea,female,63,NA,NA,NA,NA,0,0,0,NA
+2020-02-19,South Korea,South Korea,female,72,NA,NA,NA,NA,0,0,0,NA
+2020-02-19,South Korea,South Korea,male,58,NA,NA,NA,NA,0,0,0,NA
+2020-02-19,South Korea,South Korea,male,76,NA,NA,NA,NA,0,0,0,NA
+2020-02-19,South Korea,South Korea,female,61,NA,NA,NA,NA,0,0,1,NA
+2020-02-20,South Korea,South Korea,male,24,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,female,38,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,male,57,NA,NA,NA,NA,0,1,0,NA
+2020-02-20,South Korea,South Korea,male,59,NA,NA,NA,NA,0,1,0,NA
+2020-02-20,South Korea,South Korea,male,75,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,male,30,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,female,26,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,female,34,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,female,59,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,female,58,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,male,60,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,female,52,NA,NA,NA,NA,0,0,1,NA
+2020-02-20,South Korea,South Korea,female,59,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,female,50,NA,NA,NA,NA,0,0,1,NA
+2020-02-20,South Korea,South Korea,male,22,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,female,30,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,female,56,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,male,29,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,female,48,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,female,56,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,female,39,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,female,20,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,male,49,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,female,23,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,male,36,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,female,57,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,male,55,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,female,22,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,female,34,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,female,65,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,male,64,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,male,67,NA,NA,NA,NA,0,0,0,NA
+2020-02-20,South Korea,South Korea,male,74,NA,NA,NA,NA,0,1,0,NA
+2020-02-21,Seoul,South Korea,male,35,2020-02-02,NA,NA,NA,0,0,0,NA
+2020-02-22,South Korea,South Korea,male,62,NA,NA,NA,NA,0,1,0,NA
+2020-02-22,South Korea,South Korea,male,58,NA,NA,NA,NA,0,1,0,NA
+2020-02-22,South Korea,South Korea,male,62,2020-02-02,2020-02-05,NA,NA,0,0,0,NA
+2020-02-23,South Korea,South Korea,male,41,NA,NA,NA,NA,0,1,0,NA
+2020-02-23,South Korea,South Korea,male,36,NA,NA,NA,NA,0,1,0,NA
+2020-02-25,South Korea,South Korea,female,69,NA,NA,NA,NA,0,0,0,NA
+2020-02-26,South Korea,South Korea,male,75,NA,NA,NA,NA,0,1,0,NA
+2020-01-21,Taiwan,Taiwan,female,55,2020-01-11,2020-01-20,NA,2020-01-20,1,0,0,"fever, cough, dyspnea"
+2020-01-24,Taiwan,Taiwan,female,55,2020-01-23,2020-01-23,NA,2020-01-21,1,0,0,fever
+2020-01-24,Taiwan,Taiwan,male,55,2020-01-23,2020-01-23,NA,2020-01-21,1,0,0,flu
+2020-01-27,Taiwan,Taiwan,female,50,2020-01-22,2020-01-25,2020-01-13,2020-01-15,1,0,0,cough
+2020-01-27,Taiwan,Taiwan,female,50,2020-01-25,2020-01-25,NA,2020-01-20,1,0,0,"fever, muscle pain"
+2020-01-28,Taiwan,Taiwan,female,70,2020-01-25,2020-01-25,NA,2020-01-22,1,0,0,fever
+2020-01-28,Taiwan,Taiwan,female,70,2020-01-25,2020-01-25,NA,2020-01-22,1,0,0,fever
+2020-01-28,Taiwan,Taiwan,male,55,2020-01-26,NA,NA,NA,0,0,0,cough
+2020-01-30,Taiwan,Taiwan,male,NA,2020-01-12,NA,NA,NA,1,0,0,"cough, nasal discharge"
+2020-01-31,Taiwan,Taiwan,female,NA,2020-01-27,2020-01-28,NA,NA,0,0,0,NA
+2020-02-05,Taiwan,Taiwan,male,55,NA,NA,NA,2020-02-02,1,0,0,NA
+2020-02-06,Taiwan,Taiwan,male,45,2020-02-03,2020-02-04,NA,2020-01-17,1,0,0,"fever, cough, headache"
+2020-02-06,Taiwan,Taiwan,female,25,2020-02-01,2020-02-04,NA,2020-01-21,1,0,0,"cough, chest pain"
+2020-02-06,Taiwan,Taiwan,male,55,2020-01-26,2020-02-01,NA,NA,0,0,0,"fever, cough"
+2020-02-06,Taiwan,Taiwan,female,55,2020-01-28,2020-02-03,NA,NA,0,0,0,cough
+2020-02-06,Taiwan,Taiwan,female,45,2020-02-01,2020-02-03,NA,NA,0,0,0,"fever, chills, sore throat, nasal discharge, dyspnea"
+2020-02-08,Taiwan,Taiwan,male,25,2020-01-27,NA,NA,NA,0,0,0,NA
+2020-02-08,Taiwan,Taiwan,male,25,NA,NA,NA,NA,0,0,0,NA
+2020-02-16,Taiwan,Taiwan,male,65,2020-01-27,2020-02-03,NA,NA,0,1,0,"cough, dyspnea"
+2020-02-16,Taiwan,Taiwan,male,55,NA,NA,NA,NA,0,0,0,NA
+2020-02-17,Taiwan,Taiwan,female,85,2020-02-06,NA,NA,NA,0,0,0,NA
+2020-02-17,Taiwan,Taiwan,male,35,2020-01-28,NA,2020-01-27,2020-01-27,0,0,0,"fever, cough"
+2020-02-19,Taiwan,Taiwan,female,65,NA,NA,2020-01-27,2020-01-27,0,0,0,NA
+2020-02-20,Taiwan,Taiwan,female,60,2020-01-22,NA,NA,NA,0,0,0,"fever, cough"
+2020-02-21,Taiwan,Taiwan,female,45,2020-01-28,2020-01-30,NA,NA,0,0,0,"fever, cough"
+2020-02-21,Taiwan,Taiwan,female,25,NA,2020-02-03,NA,NA,0,0,0,reflux
+2020-02-23,Taiwan,Taiwan,male,85,NA,NA,NA,NA,0,0,0,NA
+2020-02-23,Taiwan,Taiwan,male,55,NA,NA,NA,NA,0,0,0,sore throat
+2020-02-24,Taiwan,Taiwan,male,45,2020-01-29,NA,NA,NA,0,0,0,muscle pain
+2020-02-24,Taiwan,Taiwan,female,75,2020-02-06,2020-02-06,NA,NA,0,0,0,NA
+2020-02-25,Taiwan,Taiwan,male,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-26,Taiwan,Taiwan,female,35,NA,2020-02-24,2020-02-11,2020-02-16,0,0,0,sore throat
+2020-02-28,Taiwan,Taiwan,male,35,2020-02-25,NA,2020-02-17,2020-02-22,0,0,0,"cough, sore throat"
+2020-02-28,Taiwan,Taiwan,female,55,NA,NA,NA,NA,0,0,0,NA
+2020-01-13,Thailand,Thailand,female,61,2020-01-05,2020-01-08,NA,2020-01-08,1,0,0,"fever, chills, sore throat, headache"
+2020-01-17,Thailand,Thailand,female,74,2020-01-13,2020-01-13,NA,2020-01-13,1,0,0,NA
+2020-01-22,Thailand,Thailand,male,68,2020-01-19,2020-01-19,NA,NA,1,0,1,fever
+2020-01-22,Thailand,Thailand,female,73,2020-01-13,2020-01-13,NA,2020-01-13,1,0,1,fever
+2020-01-22,Thailand,Thailand,male,NA,2020-01-19,2020-01-19,NA,NA,1,0,1,fever
+2020-01-24,Thailand,Thailand,female,33,2020-01-23,2020-01-23,NA,2020-01-21,1,0,0,"fever, cough, muscle pain"
+2020-01-26,Thailand,Thailand,female,57,NA,NA,NA,NA,1,0,0,NA
+2020-01-26,Thailand,Thailand,female,73,NA,NA,NA,NA,1,0,0,NA
+2020-01-28,Thailand,Thailand,NA,6,NA,NA,NA,NA,1,0,0,NA
+2020-01-28,Thailand,Thailand,NA,60,NA,NA,NA,NA,1,0,0,NA
+2020-01-28,Thailand,Thailand,NA,NA,NA,NA,NA,NA,1,0,0,NA
+2020-01-28,Thailand,Thailand,NA,NA,NA,NA,NA,NA,1,0,0,NA
+2020-01-28,Thailand,Thailand,NA,NA,NA,NA,NA,NA,1,0,0,NA
+2020-01-28,Thailand,Thailand,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-01-30,Thailand,Thailand,NA,NA,NA,NA,NA,NA,1,0,0,NA
+2020-01-31,Thailand,Thailand,NA,NA,NA,NA,NA,NA,1,0,0,NA
+2020-01-31,Thailand,Thailand,NA,NA,NA,NA,NA,NA,1,0,0,NA
+2020-01-31,Thailand,Thailand,NA,NA,NA,NA,NA,NA,1,0,0,NA
+2020-01-31,Thailand,Thailand,NA,NA,NA,NA,NA,NA,1,0,0,NA
+2020-01-31,Thailand,Thailand,male,50,2020-01-20,2020-01-23,NA,NA,0,0,1,NA
+2020-02-04,Thailand,Thailand,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-04,Thailand,Thailand,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-04,Thailand,Thailand,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-04,Thailand,Thailand,male,70,NA,NA,NA,NA,0,0,0,NA
+2020-02-04,Thailand,Thailand,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-08,Thailand,Thailand,NA,NA,NA,NA,NA,2020-02-04,1,0,0,NA
+2020-02-08,Thailand,Thailand,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-08,Thailand,Thailand,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-08,Thailand,Thailand,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-08,Thailand,Thailand,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-08,Thailand,Thailand,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-08,Thailand,Thailand,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-11,Thailand,Thailand,female,54,NA,2020-02-06,NA,NA,1,0,0,NA
+2020-02-15,Thailand,Thailand,female,35,NA,NA,NA,NA,0,0,0,NA
+2020-02-16,Thailand,Thailand,female,60,NA,NA,NA,NA,0,0,0,NA
+2020-02-25,Thailand,Thailand,female,31,NA,NA,NA,NA,0,0,0,NA
+2020-02-25,Thailand,Thailand,male,29,NA,NA,NA,NA,0,0,0,NA
+2020-02-26,Thailand,Thailand,male,NA,NA,2020-02-23,NA,NA,0,0,0,cough
+2020-02-26,Thailand,Thailand,female,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-26,Thailand,Thailand,male,8,NA,NA,NA,NA,0,0,0,NA
+2020-02-28,Thailand,Thailand,male,25,NA,2020-02-25,NA,NA,0,0,0,"fever, cough"
+2020-01-21,Washington,US,male,35,2020-01-16,2020-01-19,NA,2020-01-15,1,0,1,NA
+2020-01-24,Illinois,US,female,61,2020-01-16,2020-01-16,NA,2020-01-13,1,0,1,NA
+2020-01-26,California,US,male,NA,2020-01-22,2020-01-22,NA,NA,1,0,0,NA
+2020-01-26,California,US,NA,NA,NA,NA,NA,NA,1,0,0,NA
+2020-01-26,Arizona,US,NA,NA,NA,NA,NA,NA,1,0,0,NA
+2020-01-30,Illinois,US,male,65,2020-01-28,2020-01-28,2020-01-13,NA,0,0,1,NA
+2020-01-31,California,US,male,NA,NA,NA,NA,2020-01-24,1,0,0,NA
+2020-01-31,Massachusetts,US,male,25,2020-01-29,NA,NA,2020-01-29,1,0,0,NA
+2020-02-03,California,US,male,57,2020-01-25,NA,2020-01-18,2020-01-24,1,0,0,"cough, fever"
+2020-02-03,California,US,female,57,2020-01-29,NA,2020-01-24,NA,0,0,0,NA
+2020-02-03,California,US,female,NA,NA,NA,NA,2020-01-23,1,0,0,NA
+2020-02-05,Wisconsin,US,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-10,California,US,NA,NA,NA,NA,NA,2020-02-07,1,0,0,NA
+2020-02-12,California,US,NA,NA,NA,NA,NA,2020-02-07,1,0,0,NA
+2020-02-13,Texas,US,NA,NA,NA,NA,NA,2020-02-07,1,0,0,NA
+2020-02-20,California,US,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-21,California,US,NA,NA,NA,NA,NA,2020-02-02,0,0,0,NA
+2020-02-27,California,US,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-01-23,Ho Chi Minh,Vietnam,male,66,2020-01-17,2020-01-17,NA,2020-01-13,1,0,1,fever
+2020-01-23,Ho Chi Minh,Vietnam,male,28,2020-01-20,NA,2020-01-13,NA,0,0,1,fever
+2020-01-30,Hanoi,Vietnam,NA,NA,NA,NA,NA,NA,1,0,0,NA
+2020-01-30,Hanoi,Vietnam,NA,NA,NA,NA,NA,NA,1,0,0,NA
+2020-01-30,Thanh Hoa,Vietnam,NA,NA,NA,NA,NA,NA,1,0,0,NA
+2020-02-03,Vietnam,Vietnam,NA,NA,NA,NA,NA,NA,1,0,0,NA
+2020-02-03,Vietnam,Vietnam,NA,NA,NA,NA,NA,NA,1,0,0,NA
+2020-02-03,Vietnam,Vietnam,NA,NA,NA,NA,NA,NA,1,0,0,NA
+2020-02-04,Vinh Phuc,Vietnam,male,30,NA,NA,NA,2020-01-17,1,0,1,NA
+2020-02-04,Vinh Phuc,Vietnam,female,42,2020-01-31,NA,2020-01-22,2020-01-28,0,0,1,fever
+2020-02-06,Vinh Phuc,Vietnam,female,16,NA,NA,NA,NA,0,0,1,NA
+2020-02-06,Vinh Phuc,Vietnam,NA,49,NA,NA,NA,NA,0,0,0,NA
+2020-02-08,Vinh Phuc,Vietnam,female,29,NA,NA,NA,2020-01-17,1,0,1,NA
+2020-02-09,Vinh Phuc,Vietnam,female,55,2020-02-02,NA,2020-01-28,2020-01-28,0,0,1,"fever, headache, nasal discharge"
+2020-02-10,Vinh Phuc,Vietnam,NA,1,NA,NA,NA,NA,0,0,1,NA
+2020-02-13,Vinh Phuc,Vietnam,male,50,2020-02-11,NA,NA,NA,0,0,0,fatigue
+2020-01-25,NSW,Australia,male,35,2020-01-15,NA,NA,NA,0,0,1,NA
+2020-01-25,NSW,Australia,male,43,2020-01-24,2020-01-24,NA,2020-01-18,1,0,1,NA
+2020-01-25,NSW,Australia,male,53,2020-01-20,NA,NA,2020-01-20,1,0,1,NA
+2020-01-25,Victoria,Australia,male,55,2020-01-23,2020-01-24,NA,NA,1,0,0,NA
+2020-01-26,NSW,Australia,female,21,2020-01-24,2020-01-24,NA,2020-01-23,1,0,1,NA
+2020-01-29,Queensland,Australia,male,44,2020-01-28,2020-01-28,NA,NA,1,0,0,NA
+2020-01-29,Victoria,Australia,male,65,2020-01-23,NA,NA,2020-01-21,1,0,0,NA
+2020-01-30,Victoria,Australia,female,45,2020-01-25,NA,NA,NA,1,0,0,NA
+2020-01-31,Queensland,Australia,female,42,NA,NA,NA,2020-01-27,1,0,0,NA
+2020-02-01,South Australia,Australia,male,60,NA,NA,NA,2020-01-21,1,0,0,NA
+2020-02-01,South Australia,Australia,female,60,NA,NA,NA,2020-01-21,1,0,0,NA
+2020-02-01,Victoria,Australia,female,25,2020-01-27,2020-01-30,NA,2020-01-25,1,0,0,NA
+2020-02-04,Queensland,Australia,male,8,NA,NA,NA,NA,1,0,0,NA
+2020-02-05,Queensland,Australia,male,37,NA,NA,NA,NA,1,0,0,NA
+2020-02-06,Queensland,Australia,female,37,NA,NA,NA,NA,1,0,0,NA
+2020-01-26,Toronto,Canada,male,56,NA,2020-01-23,NA,2020-01-22,1,0,1,"fever, cough"
+2020-01-27,Toronto,Canada,female,55,NA,NA,NA,2020-01-22,1,0,0,NA
+2020-01-28,Vancouver,Canada,male,45,2020-01-26,2020-01-26,NA,NA,1,0,0,NA
+2020-02-01,Toronto,Canada,female,25,2020-01-24,2020-01-24,NA,2020-01-23,1,0,1,NA
+2020-02-05,Vancouver,Canada,female,55,NA,NA,NA,NA,0,0,0,NA
+2020-02-06,Vancouver,Canada,male,35,NA,NA,NA,NA,1,0,0,NA
+2020-02-06,Vancouver,Canada,female,35,NA,NA,NA,NA,1,0,0,NA
+2020-02-14,Vancouver,Canada,female,35,NA,NA,NA,NA,0,0,0,NA
+2020-02-21,Vancouver,Canada,female,35,NA,NA,NA,NA,0,0,0,NA
+2020-02-24,Toronto,Canada,female,25,NA,NA,NA,2020-02-21,1,0,0,NA
+2020-02-24,Vancouver,Canada,male,45,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,Toronto,Canada,female,65,NA,NA,NA,NA,0,0,0,NA
+2020-01-27,Preah Sihanouk Province,Cambodia,male,60,2020-01-25,NA,NA,2020-01-23,1,0,0,"fever, nasal discharge"
+2020-01-28,Sri Lanka,Sri Lanka,female,40,2020-01-25,2020-01-25,NA,2020-01-19,1,0,1,fever
+2020-01-28,Bavaria,Germany,male,33,2020-01-24,NA,2020-01-20,2020-01-21,0,0,0,"sore throat, chills, muscle pain, fever, cough"
+2020-01-29,Bavaria,Germany,NA,NA,2020-01-25,NA,2020-01-20,2020-01-21,0,0,0,NA
+2020-01-29,Bavaria,Germany,NA,NA,2020-01-26,NA,2020-01-20,2020-01-21,0,0,0,NA
+2020-01-29,Bavaria,Germany,NA,NA,2020-01-27,NA,2020-01-21,2020-01-24,0,0,0,NA
+2020-01-30,Bavaria,Germany,male,NA,NA,NA,NA,NA,0,0,0,NA
+2020-01-31,Bavaria,Germany,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-01-31,Bavaria,Germany,male,52,NA,NA,NA,NA,0,0,0,NA
+2020-02-01,Bavaria,Germany,male,33,NA,NA,NA,NA,0,0,0,NA
+2020-02-02,Frankfurt,Germany,NA,NA,NA,NA,NA,2020-02-01,1,0,0,NA
+2020-02-02,Frankfurt,Germany,NA,NA,NA,NA,NA,2020-02-01,1,0,0,NA
+2020-02-05,Bavaria,Germany,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-05,Bavaria,Germany,male,58,NA,NA,NA,NA,0,0,0,NA
+2020-02-06,Bavaria,Germany,female,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-07,Bavaria,Germany,female,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-11,Bavaria,Germany,male,49,NA,NA,NA,NA,0,0,0,NA
+2020-02-11,Bavaria,Germany,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-26,Baden-Wuerttemberg,Germany,male,25,NA,2020-02-24,NA,NA,0,0,0,NA
+2020-02-26,Tubingen,Germany,male,60,NA,NA,NA,NA,0,0,0,NA
+2020-02-26,Tubingen,Germany,female,24,NA,NA,NA,NA,0,0,0,NA
+2020-02-26,Baden-Wuerttemberg,Germany,male,32,NA,NA,NA,2020-02-23,0,0,0,NA
+2020-02-26,North Rhine-Westphalia,Germany,male,47,2020-02-16,2020-02-24,NA,NA,0,0,0,"fever, cough"
+2020-02-26,North Rhine-Westphalia,Germany,female,46,NA,NA,NA,NA,0,0,0,NA
+2020-02-26,North Rhine-Westphalia,Germany,male,41,2020-02-20,2020-02-26,2020-02-15,2020-02-15,0,0,0,NA
+2020-02-26,North Rhine-Westphalia,Germany,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-26,North Rhine-Westphalia,Germany,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-26,North Rhine-Westphalia,Germany,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,North Rhine-Westphalia,Germany,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,North Rhine-Westphalia,Germany,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,North Rhine-Westphalia,Germany,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,North Rhine-Westphalia,Germany,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,North Rhine-Westphalia,Germany,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,North Rhine-Westphalia,Germany,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,North Rhine-Westphalia,Germany,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,North Rhine-Westphalia,Germany,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,North Rhine-Westphalia,Germany,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,North Rhine-Westphalia,Germany,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,North Rhine-Westphalia,Germany,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,North Rhine-Westphalia,Germany,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,North Rhine-Westphalia,Germany,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,North Rhine-Westphalia,Germany,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,Hamburg,Germany,male,NA,2020-02-26,2020-02-27,NA,NA,0,0,0,NA
+2020-02-27,Baden-Wuerttemberg,Germany,female,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,Baden-Wuerttemberg,Germany,female,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,Baden-Wuerttemberg,Germany,male,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,Baden-Wuerttemberg,Germany,male,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,Rhineland-Palatinate,Germany,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,Bavaria,Germany,male,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,Hesse,Germany,male,31,NA,NA,NA,NA,0,0,0,NA
+2020-02-28,Baden-Wuerttemberg,Germany,male,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-28,Baden-Wuerttemberg,Germany,male,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-28,Baden-Wuerttemberg,Germany,male,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-28,Baden-Wuerttemberg,Germany,male,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-28,Baden-Wuerttemberg,Germany,male,32,2020-02-23,NA,2020-02-21,2020-02-21,0,0,0,NA
+2020-02-28,North Rhine-Westphalia,Germany,female,NA,NA,NA,2020-02-15,2020-02-15,0,0,0,NA
+2020-01-29,UAE,UAE,female,73,2020-01-23,NA,NA,2020-01-16,1,0,1,NA
+2020-01-29,UAE,UAE,female,36,NA,NA,NA,2020-01-16,1,0,1,NA
+2020-01-29,UAE,UAE,male,41,NA,NA,NA,2020-01-16,1,0,1,NA
+2020-01-29,UAE,UAE,male,8,NA,NA,NA,2020-01-16,1,0,1,NA
+2020-02-01,UAE,UAE,NA,NA,NA,NA,NA,NA,1,0,0,NA
+2020-02-08,UAE,UAE,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-08,UAE,UAE,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-10,UAE,UAE,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-16,UAE,UAE,male,37,NA,NA,NA,NA,0,0,0,NA
+2020-02-21,UAE,UAE,NA,34,NA,NA,NA,NA,0,0,0,NA
+2020-02-21,UAE,UAE,NA,39,NA,NA,NA,NA,0,0,0,NA
+2020-02-22,UAE,UAE,male,70,NA,NA,NA,NA,0,0,0,NA
+2020-02-22,UAE,UAE,female,64,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,UAE,UAE,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,UAE,UAE,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,UAE,UAE,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,UAE,UAE,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,UAE,UAE,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,UAE,UAE,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-28,UAE,UAE,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-28,UAE,UAE,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-01-22,Hong Kong,Hong Kong,male,39,2020-01-21,2020-01-22,NA,NA,1,0,0,fever
+2020-01-22,Hong Kong,Hong Kong,male,56,2020-01-18,2020-01-19,2020-01-10,2020-01-19,1,0,0,NA
+2020-01-24,Hong Kong,Hong Kong,female,62,2020-01-20,2020-01-23,NA,2020-01-19,1,0,0,"fever, cough"
+2020-01-24,Hong Kong,Hong Kong,female,62,2020-01-23,2020-01-23,NA,2020-01-22,1,0,0,fever
+2020-01-24,Hong Kong,Hong Kong,male,63,2020-01-23,2020-01-23,NA,2020-01-22,1,0,1,"fever, cough"
+2020-01-27,Hong Kong,Hong Kong,male,47,2020-01-20,2020-01-21,NA,2020-01-23,1,0,0,fever
+2020-01-27,Hong Kong,Hong Kong,female,68,2020-01-21,2020-01-25,NA,2020-01-25,1,0,0,fever
+2020-01-27,Hong Kong,Hong Kong,male,64,2020-01-25,2020-01-25,NA,2020-01-19,1,0,0,fever
+2020-01-29,Hong Kong,Hong Kong,female,73,2020-01-28,2020-01-28,NA,2020-01-22,1,0,0,NA
+2020-01-29,Hong Kong,Hong Kong,male,72,2020-01-28,2020-01-28,NA,2020-01-22,1,0,0,NA
+2020-01-30,Yau Ma Tei,Hong Kong,female,37,2020-01-28,2020-01-30,2020-01-22,2020-01-28,0,0,0,cough
+2020-01-30,Tsing Yi,Hong Kong,male,75,2020-01-22,2020-01-24,NA,NA,0,0,0,"cough, dyspnea"
+2020-01-31,Kowloon,Hong Kong,male,39,2020-01-31,2020-01-31,2020-01-21,2020-01-23,1,1,0,"muscle pain, fever"
+2020-02-02,Hong Kong,Hong Kong,male,80,2020-01-19,2020-01-30,2020-01-10,2020-01-10,0,0,0,fever
+2020-02-02,Kowloon,Hong Kong,female,72,2020-02-01,2020-02-01,2020-01-23,2020-01-31,0,0,0,"fever, cough"
+2020-02-04,Kowloon,Hong Kong,female,64,2020-01-23,2020-01-23,NA,NA,0,0,0,cough
+2020-02-04,Hong Kong,Hong Kong,male,60,2020-01-22,2020-01-30,NA,NA,0,0,0,"fever, muscle pain, dyspnea"
+2020-02-04,Kowloon,Hong Kong,male,25,2020-01-28,2020-01-29,NA,NA,0,0,1,"cough, nasal discharge, diarrhea"
+2020-02-05,Kwun Tong,Hong Kong,female,56,2020-02-04,2020-02-04,NA,NA,0,0,0,fever
+2020-02-05,Kwun Tong,Hong Kong,female,28,2020-01-30,2020-02-04,NA,NA,0,0,0,"cough, sore throat"
+2020-02-05,Kwai Chung,Hong Kong,male,56,2020-01-30,2020-02-01,NA,NA,0,0,0,"fever, cough, sore throat"
+2020-02-06,Kwai Chung,Hong Kong,female,55,2020-02-01,2020-02-02,NA,NA,0,0,0,"sore throat, fever, diarrhea"
+2020-02-06,Hong Kong,Hong Kong,female,63,2020-01-26,2020-02-05,NA,NA,0,0,0,"cough, malaise"
+2020-02-06,Hong Kong,Hong Kong,female,65,2020-01-28,2020-01-29,NA,NA,0,0,0,"fever, cough"
+2020-02-07,Zhuhai,Hong Kong,male,58,2020-02-04,2020-02-06,NA,2020-02-05,0,0,0,"fever, cough"
+2020-02-07,Fo Tan,Hong Kong,male,42,2020-02-03,2020-02-03,2020-01-22,2020-02-02,0,0,0,"fever, cough"
+2020-02-09,Wan Chai,Hong Kong,male,24,2020-01-30,2020-01-30,NA,NA,0,0,0,"fever, cough"
+2020-02-09,Ngau Chi Wan,Hong Kong,male,70,2020-01-30,2020-02-01,NA,NA,0,0,0,"cough, chills, dyspnea, diarrhea"
+2020-02-09,Hong Kong,Hong Kong,male,68,NA,NA,2020-01-26,2020-01-26,0,0,0,NA
+2020-02-09,Hong Kong,Hong Kong,female,57,NA,NA,2020-01-26,2020-01-26,0,0,0,NA
+2020-02-09,Hong Kong,Hong Kong,female,91,NA,NA,2020-01-26,2020-01-26,0,0,0,NA
+2020-02-09,Hong Kong,Hong Kong,female,51,NA,NA,2020-01-26,2020-01-26,0,0,0,NA
+2020-02-09,Hong Kong,Hong Kong,female,25,NA,NA,2020-01-26,2020-01-26,0,0,0,NA
+2020-02-09,Hong Kong,Hong Kong,male,22,NA,NA,2020-01-26,2020-01-26,0,0,0,NA
+2020-02-09,Hong Kong,Hong Kong,female,50,NA,NA,2020-01-26,2020-01-26,0,0,0,NA
+2020-02-09,Hong Kong,Hong Kong,male,23,NA,NA,2020-01-26,2020-01-26,0,0,0,NA
+2020-02-10,Hong Kong,Hong Kong,female,55,2020-01-30,2020-01-30,2020-01-26,2020-01-26,0,0,0,NA
+2020-02-10,Hong Kong,Hong Kong,male,52,2020-02-08,2020-02-09,2020-01-26,2020-01-26,0,0,0,NA
+2020-02-10,Hong Kong,Hong Kong,male,69,2020-01-30,2020-02-07,NA,NA,0,0,0,NA
+2020-02-10,Hong Kong,Hong Kong,female,63,2020-01-30,2020-01-31,NA,NA,0,0,0,NA
+2020-02-10,Hong Kong,Hong Kong,female,86,2020-01-28,2020-02-09,NA,NA,0,0,0,NA
+2020-02-10,Hong Kong,Hong Kong,female,62,2020-02-03,2020-02-03,NA,NA,0,0,0,NA
+2020-02-11,Hong Kong,Hong Kong,male,59,2020-02-02,2020-02-06,NA,NA,0,0,0,NA
+2020-02-11,Hong Kong,Hong Kong,female,60,2020-02-01,2020-02-02,NA,NA,0,0,0,NA
+2020-02-11,Hong Kong,Hong Kong,male,71,2020-02-05,2020-02-10,NA,NA,0,0,0,NA
+2020-02-11,Hong Kong,Hong Kong,male,37,2020-01-30,2020-01-30,NA,NA,0,0,0,NA
+2020-02-11,Hong Kong,Hong Kong,male,66,2020-01-31,2020-02-01,NA,NA,0,0,0,NA
+2020-02-11,Hong Kong,Hong Kong,female,37,2020-02-02,2020-02-03,NA,NA,0,0,0,NA
+2020-02-11,Hong Kong,Hong Kong,male,75,2020-02-03,2020-02-03,NA,NA,0,0,0,NA
+2020-02-12,Hong Kong,Hong Kong,male,51,2020-02-03,2020-02-10,NA,NA,0,0,0,fever
+2020-02-13,Hong Kong,Hong Kong,male,43,2020-01-29,2020-01-31,2020-01-30,2020-01-30,0,0,0,"cough, diarrhea, vomiting"
+2020-02-13,Hong Kong,Hong Kong,female,67,2020-01-31,2020-01-31,2020-01-26,2020-01-26,0,0,0,"cough, fever, chills"
+2020-02-13,Hong Kong,Hong Kong,male,37,2020-02-08,2020-02-09,2020-01-26,2020-01-26,0,0,0,fever
+2020-02-14,Hong Kong,Hong Kong,female,41,NA,NA,2020-01-26,2020-01-26,0,0,0,NA
+2020-02-14,Hong Kong,Hong Kong,male,70,2020-02-02,2020-02-12,NA,NA,0,1,0,cough
+2020-02-14,Hong Kong,Hong Kong,female,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-16,Hong Kong,Hong Kong,male,54,NA,2020-02-07,NA,NA,0,0,0,fever
+2020-02-17,Hong Kong,Hong Kong,male,69,2020-02-08,2020-02-08,NA,NA,0,0,0,"cough, dyspnea"
+2020-02-17,Hong Kong,Hong Kong,male,45,2020-02-12,2020-02-13,NA,NA,0,0,0,"fever, sore throat"
+2020-02-17,Hong Kong,Hong Kong,female,46,2020-02-08,2020-02-10,NA,NA,0,0,0,"nasal discharge, cough"
+2020-02-18,Hong Kong,Hong Kong,female,32,2020-02-02,NA,NA,NA,0,0,0,"fever, cough"
+2020-02-18,Hong Kong,Hong Kong,male,58,NA,NA,NA,NA,0,0,0,NA
+2020-02-19,Hong Kong,Hong Kong,female,83,NA,NA,NA,NA,0,0,0,NA
+2020-02-19,Hong Kong,Hong Kong,female,83,2020-02-14,NA,NA,NA,0,0,0,NA
+2020-02-19,Hong Kong,Hong Kong,male,68,2020-02-12,2020-02-18,NA,NA,0,0,0,NA
+2020-02-19,Hong Kong,Hong Kong,female,70,2020-02-12,2020-02-18,NA,NA,0,0,0,NA
+2020-02-20,Hong Kong,Hong Kong,male,75,2020-01-25,2020-01-31,NA,NA,0,0,0,NA
+2020-02-20,Hong Kong,Hong Kong,female,38,2020-02-10,2020-02-10,NA,NA,0,0,0,NA
+2020-02-20,Hong Kong,Hong Kong,male,58,2020-02-08,2020-02-10,NA,NA,0,0,0,NA
+2020-02-20,Hong Kong,Hong Kong,male,48,2020-02-18,2020-02-19,NA,NA,0,0,0,NA
+2020-02-22,Hong Kong,Hong Kong,female,96,2020-02-13,2020-02-22,NA,NA,0,0,0,NA
+2020-02-23,Hong Kong,Hong Kong,male,68,2020-02-20,2020-02-22,2020-01-25,2020-02-20,0,0,0,NA
+2020-02-23,Hong Kong,Hong Kong,male,62,2020-02-10,2020-02-22,NA,NA,0,0,0,NA
+2020-02-23,Hong Kong,Hong Kong,female,80,2020-02-08,2020-02-22,NA,NA,0,0,0,NA
+2020-02-23,Hong Kong,Hong Kong,female,76,2020-02-13,2020-02-22,NA,NA,0,0,0,NA
+2020-02-24,Hong Kong,Hong Kong,male,35,2020-02-19,2020-02-21,NA,NA,0,0,0,NA
+2020-02-24,Hong Kong,Hong Kong,female,57,2020-02-08,2020-02-12,NA,NA,0,0,0,NA
+2020-02-24,Hong Kong,Hong Kong,female,68,2020-02-19,2020-02-23,NA,NA,0,0,0,NA
+2020-02-24,Hong Kong,Hong Kong,female,59,2020-02-24,NA,2020-01-25,2020-02-21,0,0,0,NA
+2020-02-24,Hong Kong,Hong Kong,female,58,2020-02-04,NA,2020-01-25,2020-02-21,0,0,0,NA
+2020-02-24,Hong Kong,Hong Kong,male,57,NA,NA,2020-01-25,2020-02-21,0,0,0,NA
+2020-02-24,Hong Kong,Hong Kong,female,57,NA,NA,2020-01-25,2020-02-21,0,0,0,NA
+2020-02-25,Hong Kong,Hong Kong,male,33,2020-02-20,NA,NA,NA,0,0,0,NA
+2020-02-25,Hong Kong,Hong Kong,female,55,2020-02-17,NA,NA,NA,0,0,0,NA
+2020-02-25,Hong Kong,Hong Kong,male,24,NA,NA,NA,NA,0,0,0,NA
+2020-02-25,Hong Kong,Hong Kong,female,60,2020-02-12,2020-02-24,NA,NA,0,0,0,cough
+2020-02-26,Hong Kong,Hong Kong,female,49,2020-02-18,2020-02-22,NA,NA,0,0,0,"cough, sputum, sore throat"
+2020-02-26,Hong Kong,Hong Kong,female,21,2020-02-12,2020-02-25,2020-01-25,2020-02-22,0,0,0,fever
+2020-02-26,Hong Kong,Hong Kong,male,16,2020-02-17,2020-02-25,2020-01-25,2020-02-22,0,0,0,nasal discharge
+2020-02-26,Hong Kong,Hong Kong,male,80,2020-02-25,2020-02-25,NA,NA,0,0,0,"fever, cough"
+2020-02-26,Hong Kong,Hong Kong,female,29,2020-02-16,2020-02-20,NA,NA,0,0,0,NA
+2020-02-26,Hong Kong,Hong Kong,male,26,2020-02-20,2020-02-21,NA,NA,0,0,0,"fever, cough"
+2020-02-27,Hong Kong,Hong Kong,female,70,2020-02-13,2020-02-13,NA,NA,0,0,0,"cough, sputum"
+2020-02-27,Hong Kong,Hong Kong,female,89,2020-02-25,2020-02-26,NA,NA,0,0,0,cough
+2020-01-31,Rome,Italy,male,NA,NA,NA,NA,NA,1,0,0,NA
+2020-01-31,Rome,Italy,female,NA,NA,NA,NA,NA,1,0,0,NA
+2020-02-06,Rome,Italy,male,35,NA,NA,NA,2020-02-03,1,0,0,NA
+2020-01-31,Tyumen,Russia,female,NA,NA,NA,NA,NA,1,0,1,NA
+2020-01-31,Zabaikalsky,Russia,male,NA,NA,NA,NA,NA,1,0,1,NA
+2020-01-31,York,UK,NA,NA,NA,NA,NA,NA,1,0,0,NA
+2020-01-31,York,UK,NA,NA,NA,NA,NA,NA,1,0,0,NA
+2020-02-06,London,UK,male,53,NA,NA,2020-01-20,2020-01-22,0,0,1,NA
+2020-02-09,London,UK,NA,NA,NA,NA,NA,NA,0,0,1,NA
+2020-02-10,London,UK,male,NA,NA,NA,2020-01-24,2020-01-28,0,0,1,NA
+2020-02-10,London,UK,male,NA,NA,NA,2020-01-24,2020-01-28,0,0,1,NA
+2020-02-10,London,UK,male,NA,NA,NA,2020-01-24,2020-01-28,0,0,1,NA
+2020-02-10,London,UK,female,NA,NA,NA,2020-01-24,2020-01-28,0,0,1,NA
+2020-02-12,London,UK,female,NA,NA,NA,2020-01-24,2020-01-28,0,0,0,NA
+2020-02-23,UK,UK,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-23,UK,UK,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-23,UK,UK,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-23,UK,UK,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,London,UK,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,London,UK,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,Nortern Ireland,UK,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-28,UK,UK,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-28,UK,UK,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-28,Wales,UK,female,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-28,UK,UK,male,NA,NA,NA,NA,NA,0,0,0,NA
+2020-01-30,Kerala,India,female,NA,NA,NA,NA,NA,1,0,0,NA
+2020-02-02,Alappuzha,India,NA,NA,NA,NA,NA,2020-01-24,1,0,0,NA
+2020-02-03,Kerala,India,NA,NA,NA,NA,NA,NA,1,0,0,NA
+2020-02-02,Manila,Phillipines,male,44,2020-01-25,2020-01-25,NA,2020-01-21,1,1,0,"fever, cough, sore throat"
+2020-02-02,Manila,Phillipines,female,38,NA,NA,NA,2020-01-21,1,0,1,NA
+2020-02-05,Phillipines,Phillipines,female,60,NA,NA,NA,2020-01-20,1,0,0,NA
+2020-01-29,Lapland,Finland,female,32,2020-01-26,2020-01-28,NA,2020-01-22,1,0,0,fever
+2020-01-31,Canary Islands,Spain,male,NA,NA,NA,NA,NA,0,0,1,NA
+2020-02-10,Mallorca,Spain,male,NA,NA,2020-02-07,NA,NA,0,0,1,NA
+2020-02-24,Tenerife,Spain,male,69,NA,NA,NA,NA,0,0,0,NA
+2020-02-25,Tenerife,Spain,female,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-25,Barcelona,Spain,female,36,NA,2020-02-24,2020-02-12,2020-02-22,0,0,0,NA
+2020-02-25,Madrid,Spain,NA,24,NA,NA,NA,NA,0,0,0,NA
+2020-02-25,Castellon,Spain,male,31,NA,NA,NA,NA,0,0,0,NA
+2020-02-26,Madrid,Spain,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-26,Tenerife,Spain,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-26,Tenerife,Spain,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-26,Barcelona,Spain,male,22,NA,2020-02-25,NA,NA,0,0,0,"sore throat, fever"
+2020-02-26,Andalusia,Spain,male,62,NA,NA,NA,NA,0,0,0,NA
+2020-02-26,Tenerife,Spain,female,NA,NA,NA,2020-02-04,2020-02-08,0,0,0,NA
+2020-02-27,Valencia,Spain,male,44,NA,NA,2020-02-19,2020-02-19,0,0,0,NA
+2020-02-27,Madrid,Spain,NA,77,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,Madrid,Spain,NA,50,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,Barcelona,Spain,female,22,NA,NA,2020-02-19,2020-02-25,0,0,0,NA
+2020-02-27,Castile and Leon,Spain,male,30,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,Castile and Leon,Spain,NA,18,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,Valencia,Spain,male,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,Valencia,Spain,male,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,Valencia,Spain,male,NA,NA,NA,2020-02-19,2020-02-19,0,0,0,NA
+2020-02-27,Valencia,Spain,male,NA,NA,NA,2020-02-19,2020-02-19,0,0,0,NA
+2020-02-27,Valencia,Spain,female,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-27,Valencia,Spain,male,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-28,Andalusia,Spain,male,28,NA,NA,NA,NA,0,0,0,NA
+2020-02-28,Andalusia,Spain,male,42,NA,NA,NA,NA,0,0,0,NA
+2020-02-28,Andalusia,Spain,male,53,NA,NA,NA,NA,0,0,0,NA
+2020-02-28,Andalusia,Spain,NA,81,NA,NA,NA,NA,0,0,0,NA
+2020-02-28,Andalusia,Spain,male,55,NA,NA,NA,NA,0,0,0,NA
+2020-02-28,Andalusia,Spain,female,25,NA,NA,NA,NA,0,0,0,NA
+2020-02-28,Andalusia,Spain,male,58,NA,NA,NA,NA,0,0,0,NA
+2020-02-28,Madrid,Spain,NA,66,NA,2020-02-28,NA,NA,0,0,0,NA
+2020-02-28,Zaragoza,Spain,female,27,NA,NA,NA,NA,0,0,0,NA
+2020-01-31,Jonkoping,Sweden,female,25,2020-01-27,NA,NA,2020-01-24,1,0,0,cough
+2020-02-04,Belgium,Belgium,NA,NA,NA,NA,NA,2020-02-02,1,0,0,NA
+2020-02-14,Egypt,Egypt,NA,NA,NA,NA,NA,NA,0,0,1,NA
+2020-02-19,Qom,Iran,NA,NA,NA,NA,NA,NA,0,1,0,NA
+2020-02-19,Qom,Iran,NA,NA,NA,NA,NA,NA,0,1,0,NA
+2020-02-20,Qom,Iran,NA,NA,NA,NA,NA,NA,0,1,0,NA
+2020-02-20,Qom,Iran,NA,NA,NA,NA,NA,NA,0,1,0,NA
+2020-02-20,Araq,Iran,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-21,Qom,Iran,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-21,Qom,Iran,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-21,Qom,Iran,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-21,Qom,Iran,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-21,Qom,Iran,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-21,Qom,Iran,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-21,Qom,Iran,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-21,Tehran,Iran,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-21,Tehran,Iran,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-21,Tehran,Iran,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-21,Tehran,Iran,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-21,Guilan,Iran,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-21,Guilan,Iran,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-21,Israel,Israel,female,NA,NA,NA,NA,2020-02-21,0,0,0,NA
+2020-02-21,Lebanon,Lebanon,female,45,NA,NA,NA,2020-02-20,0,0,0,NA
+2020-02-24,Kuwait,Kuwait,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-24,Kuwait,Kuwait,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-24,Kuwait,Kuwait,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-24,Kuwait,Kuwait,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-24,Kuwait,Kuwait,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-25,Kuwait,Kuwait,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-25,Kuwait,Kuwait,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-25,Kuwait,Kuwait,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-25,Kuwait,Kuwait,female,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-24,Bahrain,Bahrain,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-24,Bahrain,Bahrain,NA,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-25,Bahrain,Bahrain,male,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-25,Bahrain,Bahrain,female,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-25,Bahrain,Bahrain,female,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-25,Bahrain,Bahrain,female,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-25,Bahrain,Bahrain,female,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-25,Bahrain,Bahrain,female,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-25,Bahrain,Bahrain,female,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-25,Bahrain,Bahrain,female,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-25,Bahrain,Bahrain,female,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-25,Bahrain,Bahrain,female,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-25,Bahrain,Bahrain,male,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-25,Bahrain,Bahrain,male,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-25,Bahrain,Bahrain,male,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-25,Bahrain,Bahrain,female,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-25,Bahrain,Bahrain,female,NA,NA,NA,NA,NA,0,0,0,NA
+2020-02-25,Innsbruck,Austria,NA,24,NA,NA,NA,NA,0,0,0,NA
+2020-02-25,Innsbruck,Austria,NA,24,NA,NA,NA,NA,0,0,0,NA
+2020-02-24,Afghanistan,Afghanistan,NA,35,NA,NA,NA,NA,0,0,0,NA
+2020-02-26,Algeria,Algeria,male,NA,NA,NA,NA,2020-02-17,0,0,0,NA
+2020-02-25,Croatia,Croatia,male,NA,NA,NA,2020-02-19,2020-02-21,0,0,0,NA
+2020-02-25,Bern,Switzerland,male,70,2020-02-17,NA,2020-02-15,2020-02-15,0,0,0,NA
